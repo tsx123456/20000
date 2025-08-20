@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3605606529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10241f96c7440f5976c0241a58054c92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HallEx/TexturesNew/Login/registID.png
+- Assets/HallEx/TexturesNew/Login/btn_zhanghao.png
+- Assets/HallEx/TexturesNew/Login/shuruk.png
+- Assets/HallEx/TexturesNew/Login/bg.jpg
+- Assets/HallEx/TexturesNew/Login/fogetPW.png
+- Assets/HallEx/TexturesNew/Login/btn_youke1.png
+- Assets/HallEx/TexturesNew/Login/btn_weixin.png
+- Assets/HallEx/TexturesNew/Login/mima.png
+- Assets/HallEx/TexturesNew/Login/loginkf1.png
+- Assets/HallEx/TexturesNew/Login/zhanghao.png
+- Assets/HallEx/TexturesNew/Login/btn_zhanghao1.png
+- Assets/HallEx/TexturesNew/Login/logo.png
+- Assets/HallEx/TexturesNew/Login/dengludi.png
+- Assets/HallEx/TexturesNew/Login/btn_youke.png
+- Assets/HallEx/TexturesNew/Login/logingame.png
+- Assets/HallEx/TexturesNew/Login/loginkf.png
+- Assets/HallEx/TexturesNew/Login/logo1.png
+Dependencies: []

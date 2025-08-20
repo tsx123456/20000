@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 173743798
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fffc8a24358b2abea8d3a5950433d7e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/CannoIcon/2_3.png
+- Assets/Fish3D/CannoIcon/4_2.png
+- Assets/Fish3D/CannoIcon/0_5 .png
+- Assets/Fish3D/CannoIcon/baio5.png
+- Assets/Fish3D/CannoIcon/2_1.png
+- Assets/Fish3D/CannoIcon/baio4.png
+- "Assets/Fish3D/CannoIcon/\u7EC4 28.png"
+- Assets/Fish3D/CannoIcon/1_3.png
+- Assets/Fish3D/CannoIcon/4_3.png
+- Assets/Fish3D/CannoIcon/0_4 .png
+- Assets/Fish3D/CannoIcon/3_1.png
+- Assets/Fish3D/CannoIcon/1_5 .png
+- Assets/Fish3D/CannoIcon/cannoIcon_Atlas.spriteatlasv2
+- Assets/Fish3D/CannoIcon/biao1.png
+- Assets/Fish3D/CannoIcon/1_2.png
+- Assets/Fish3D/CannoIcon/biao2.png
+- Assets/Fish3D/CannoIcon/2_2.png
+- Assets/Fish3D/CannoIcon/2_5.png
+- Assets/Fish3D/CannoIcon/1_1.png
+- Assets/Fish3D/CannoIcon/0_4.png
+- Assets/Fish3D/CannoIcon/1_4.png
+- Assets/Fish3D/CannoIcon/0_3.png
+- Assets/Fish3D/CannoIcon/faguang.png
+- Assets/Fish3D/CannoIcon/di.png
+- Assets/Fish3D/CannoIcon/3_4.png
+- Assets/Fish3D/CannoIcon/0_3 .png
+- Assets/Fish3D/CannoIcon/0_5.png
+- Assets/Fish3D/CannoIcon/baio3.png
+- Assets/Fish3D/CannoIcon/4_4.png
+- Assets/Fish3D/CannoIcon/4_5.png
+- Assets/Fish3D/CannoIcon/0_2.png
+- Assets/Fish3D/CannoIcon/3_5.png
+- Assets/Fish3D/CannoIcon/0_1.png
+- Assets/Fish3D/CannoIcon/1_5.png
+- Assets/Fish3D/CannoIcon/4_1.png
+- Assets/Fish3D/CannoIcon/0_1 .png
+- Assets/Fish3D/CannoIcon/3_3.png
+- Assets/Fish3D/CannoIcon/3_2.png
+- Assets/Fish3D/CannoIcon/2_4.png
+- Assets/Fish3D/CannoIcon/0_2 .png
+- "Assets/Fish3D/CannoIcon/\u7EC4 27.png"
+Dependencies: []

@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 2399323398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b12629999f093db9b14a3d0b352b0c9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/Textures/Main/boss_jinbidiban.png
+- Assets/Fish3D/Textures/Main/dikuang1.png
+- Assets/Fish3D/Textures/Main/chuangkou.png
+- Assets/Fish3D/Textures/Main/jiantou.png
+- Assets/Fish3D/Textures/Main/zhuanpan_00002.png
+- Assets/Fish3D/Textures/Main/xiaoyudi.png
+- Assets/Fish3D/Textures/Main/yinbi03.png
+- Assets/Fish3D/Textures/Main/weinengjiesuo.png
+- Assets/Fish3D/Textures/Main/xiaodiban2.png
+- Assets/Fish3D/Textures/Main/suodinggongji4.png
+- Assets/Fish3D/Textures/Main/gougou2.png
+- Assets/Fish3D/Textures/Main/suodinggongji1.png
+- Assets/Fish3D/Textures/Main/zhuanpan_00000.png
+- Assets/Fish3D/Textures/Main/wenzikuang.png
+- Assets/Fish3D/Textures/Main/jinbi_3.png
+- Assets/Fish3D/Textures/Main/jindudi.png
+- Assets/Fish3D/Textures/Main/yinbi01.png
+- Assets/Fish3D/Textures/Main/zhuanpan_00003.png
+- Assets/Fish3D/Textures/Main/suodinggongji5.png
+- Assets/Fish3D/Textures/Main/+.png
+- Assets/Fish3D/Textures/Main/buyudi.png
+- Assets/Fish3D/Textures/Main/ninzaicichu.png
+- Assets/Fish3D/Textures/Main/mask.png
+- Assets/Fish3D/Textures/Main/suodinggongji0.png
+- Assets/Fish3D/Textures/Main/dipan.png
+- Assets/Fish3D/Textures/Main/dayudi.png
+- Assets/Fish3D/Textures/Main/miaozhong.png
+- Assets/Fish3D/Textures/Main/zhuanpan_00001.png
+- Assets/Fish3D/Textures/Main/diamond.png
+- Assets/Fish3D/Textures/Main/5-3.png
+- Assets/Fish3D/Textures/Main/suodinggongji3.png
+- Assets/Fish3D/Textures/Main/yinbi05.png
+- Assets/Fish3D/Textures/Main/5-4.png
+- Assets/Fish3D/Textures/Main/jindutiao.png
+- Assets/Fish3D/Textures/Main/main_Atlas.spriteatlasv2
+- Assets/Fish3D/Textures/Main/dayujinbidi.png
+- Assets/Fish3D/Textures/Main/-.png
+- Assets/Fish3D/Textures/Main/jinbi_1.png
+- Assets/Fish3D/Textures/Main/dayudiban.png
+- Assets/Fish3D/Textures/Main/jinbi_4.png
+- Assets/Fish3D/Textures/Main/yinbi02.png
+- Assets/Fish3D/Textures/Main/jishaboss.png
+- Assets/Fish3D/Textures/Main/kaihuoEff.png
+- Assets/Fish3D/Textures/Main/paotaixuanzhong.png
+- Assets/Fish3D/Textures/Main/qianb.png
+- Assets/Fish3D/Textures/Main/renwu.png
+- Assets/Fish3D/Textures/Main/suodinggongji2.png
+- Assets/Fish3D/Textures/Main/yuwang.png
+- Assets/Fish3D/Textures/Main/Directional-light.jpg
+- Assets/Fish3D/Textures/Main/jinbi_5.png
+- Assets/Fish3D/Textures/Main/jiesuo.png
+- Assets/Fish3D/Textures/Main/yinbi04.png
+- Assets/Fish3D/Textures/Main/paotai.png
+- Assets/Fish3D/Textures/Main/BOSS_yudiban.png
+- Assets/Fish3D/Textures/Main/gold.png
+- Assets/Fish3D/Textures/Main/wenzi.png
+- Assets/Fish3D/Textures/Main/colse.png
+- Assets/Fish3D/Textures/Main/jinbi_2.png
+Dependencies: []

@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1893218908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 875726ad1d542b18f7726862bf4b132a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HallEx/language/cn_CH/Main/ljbd_bt.png
+- Assets/HallEx/language/cn_CH/Main/btn_start1.png
+- Assets/HallEx/language/cn_CH/Main/activity_1.png
+- Assets/HallEx/language/cn_CH/Main/btn_diamond.png
+- Assets/HallEx/language/cn_CH/Main/Title22.png
+- Assets/HallEx/language/cn_CH/Main/zhuanpan_2.png
+- Assets/HallEx/language/cn_CH/Main/zhongji.png
+- Assets/HallEx/language/cn_CH/Main/xyzp.png
+- Assets/HallEx/language/cn_CH/Main/chuji.png
+- Assets/HallEx/language/cn_CH/Main/Title6.png
+- Assets/HallEx/language/cn_CH/Main/tb_biaoti.png
+- Assets/HallEx/language/cn_CH/Main/personRecord.png
+- Assets/HallEx/language/cn_CH/Main/Title16.png
+- Assets/HallEx/language/cn_CH/Main/jinfen_tomorrow.png
+- Assets/HallEx/language/cn_CH/Main/personRecord1.png
+- Assets/HallEx/language/cn_CH/Main/btn_silver.png
+- Assets/HallEx/language/cn_CH/Main/xinshou.png
+- Assets/HallEx/language/cn_CH/Main/btn_gold.png
+- Assets/HallEx/language/cn_CH/Main/btn_diamond1.png
+- Assets/HallEx/language/cn_CH/Main/activity_0.png
+- Assets/HallEx/language/cn_CH/Main/gaoji.png
+- Assets/HallEx/language/cn_CH/Main/dajiangRecord1.png
+- Assets/HallEx/language/cn_CH/Main/zhuanpan_1.png
+- Assets/HallEx/language/cn_CH/Main/btn_gold1.png
+- Assets/HallEx/language/cn_CH/Main/btn_silver1.png
+- Assets/HallEx/language/cn_CH/Main/bg.png
+- Assets/HallEx/language/cn_CH/Main/FirstCharge_title.png
+- Assets/HallEx/language/cn_CH/Main/dajiangRecord.png
+- Assets/HallEx/language/cn_CH/Main/cb_biaoti.png
+- Assets/HallEx/language/cn_CH/Main/zhuanpan_3.png
+Dependencies: []

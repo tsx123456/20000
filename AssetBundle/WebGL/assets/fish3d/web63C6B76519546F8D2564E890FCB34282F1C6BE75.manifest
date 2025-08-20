@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1000771244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6feb22003a85e1dda53f89defccf2779
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4fe5cb6c775c9634bf200ac60bbe144f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aad38f5673f52164796fe052e9a5384c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/Web/Web_02.prefab
+- Assets/Fish3D/Web/Web_04.prefab
+- Assets/Fish3D/Web/Web_00.prefab
+- Assets/Fish3D/Web/Web_03.prefab
+- Assets/Fish3D/Web/Web_01.prefab
+Dependencies:
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/fish3d/eff/materials.ab

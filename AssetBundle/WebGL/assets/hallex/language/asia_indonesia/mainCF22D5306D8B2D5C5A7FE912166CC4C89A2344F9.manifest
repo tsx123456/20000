@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3993225696
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4049a78c885e855ef498c95b8e27655
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HallEx/language/Asia_Indonesia/Main/jinfen_tomorrow.png
+- Assets/HallEx/language/Asia_Indonesia/Main/personRecord1.png
+- Assets/HallEx/language/Asia_Indonesia/Main/activity_0.png
+- Assets/HallEx/language/Asia_Indonesia/Main/Title6.png
+- Assets/HallEx/language/Asia_Indonesia/Main/btn_start1.png
+- Assets/HallEx/language/Asia_Indonesia/Main/FirstCharge_title.png
+- Assets/HallEx/language/Asia_Indonesia/Main/tb_biaoti.png
+- Assets/HallEx/language/Asia_Indonesia/Main/zhuanpan_3.png
+- Assets/HallEx/language/Asia_Indonesia/Main/btn_silver.png
+- Assets/HallEx/language/Asia_Indonesia/Main/personRecord.png
+- Assets/HallEx/language/Asia_Indonesia/Main/bg.png
+- Assets/HallEx/language/Asia_Indonesia/Main/activity_1.png
+- Assets/HallEx/language/Asia_Indonesia/Main/ljbd_bt.png
+- Assets/HallEx/language/Asia_Indonesia/Main/zhongji.png
+- Assets/HallEx/language/Asia_Indonesia/Main/btn_gold.png
+- Assets/HallEx/language/Asia_Indonesia/Main/gaoji.png
+- Assets/HallEx/language/Asia_Indonesia/Main/Title16.png
+- Assets/HallEx/language/Asia_Indonesia/Main/dajiangRecord.png
+- Assets/HallEx/language/Asia_Indonesia/Main/zhuanpan_1.png
+- Assets/HallEx/language/Asia_Indonesia/Main/chuji.png
+- Assets/HallEx/language/Asia_Indonesia/Main/xinshou.png
+- Assets/HallEx/language/Asia_Indonesia/Main/btn_silver1.png
+- Assets/HallEx/language/Asia_Indonesia/Main/btn_diamond1.png
+- Assets/HallEx/language/Asia_Indonesia/Main/btn_gold1.png
+- Assets/HallEx/language/Asia_Indonesia/Main/xyzp.png
+- Assets/HallEx/language/Asia_Indonesia/Main/zhuanpan_2.png
+- Assets/HallEx/language/Asia_Indonesia/Main/Title22.png
+- Assets/HallEx/language/Asia_Indonesia/Main/cb_biaoti.png
+- Assets/HallEx/language/Asia_Indonesia/Main/btn_diamond.png
+- Assets/HallEx/language/Asia_Indonesia/Main/dajiangRecord1.png
+Dependencies: []

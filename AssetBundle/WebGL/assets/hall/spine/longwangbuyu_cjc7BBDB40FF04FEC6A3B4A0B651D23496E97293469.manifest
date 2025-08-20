@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2547194526
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 885515b346f963e2e079b7e28a1860a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e46e7e4b877bfdeb69198a9fd36ef50e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Hall/Spine/longwangbuyu_cjc/longwangbuyu_cjc_SkeletonData.asset
+- Assets/Hall/Spine/longwangbuyu_cjc/longwangbuyu_cjc.atlas.txt
+- Assets/Hall/Spine/longwangbuyu_cjc/longwangbuyu_cjc_Atlas.asset
+- Assets/Hall/Spine/longwangbuyu_cjc/longwangbuyu_cjc.json
+- Assets/Hall/Spine/longwangbuyu_cjc/longwangbuyu_cjc.png
+- Assets/Hall/Spine/longwangbuyu_cjc/longwangbuyu_cjc_Material.mat
+Dependencies: []

@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 413140967
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd0e26d3c6c2f5147ecb469156bfb129
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HallEx/TexturesNew/Common/btn_sure.png
+- Assets/HallEx/TexturesNew/Common/1000.png
+- Assets/HallEx/TexturesNew/Common/qianb.png
+- Assets/HallEx/TexturesNew/Common/xxxx.png
+- Assets/HallEx/TexturesNew/Common/1.png
+- Assets/HallEx/TexturesNew/Common/btn_cancel.png
+- Assets/HallEx/TexturesNew/Common/tianmei_icon1019.png
+- Assets/HallEx/TexturesNew/Common/shurudikuang.png
+- Assets/HallEx/TexturesNew/Common/100.png
+- Assets/HallEx/TexturesNew/Common/500.png
+- Assets/HallEx/TexturesNew/Common/shurukuang.png
+- Assets/HallEx/TexturesNew/Common/3.png
+- Assets/HallEx/TexturesNew/Common/200.png
+- Assets/HallEx/TexturesNew/Common/redbg.png
+- Assets/HallEx/TexturesNew/Common/5000.png
+- Assets/HallEx/TexturesNew/Common/gb.png
+- Assets/HallEx/TexturesNew/Common/btn_wangjimima.png
+- Assets/HallEx/TexturesNew/Common/annuikg.png
+- Assets/HallEx/TexturesNew/Common/msgboxdi.png
+- Assets/HallEx/TexturesNew/Common/5-2.png
+- Assets/HallEx/TexturesNew/Common/4.png
+- Assets/HallEx/TexturesNew/Common/5-1.png
+- Assets/HallEx/TexturesNew/Common/2.png
+Dependencies: []

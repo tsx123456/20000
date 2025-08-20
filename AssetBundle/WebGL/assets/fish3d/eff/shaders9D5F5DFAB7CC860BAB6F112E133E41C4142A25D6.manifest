@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4083258052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c599d26808c7916ab7d49ae9c036ab12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/Eff/Shaders/LightsEmmissive.shader
+- Assets/Fish3D/Eff/Shaders/Textured Text Shader.shader
+- Assets/Fish3D/Eff/Shaders/Spine-Skeleton.shader
+- Assets/Fish3D/Eff/Shaders/Spine-SkeletonGraphic.shader
+Dependencies: []

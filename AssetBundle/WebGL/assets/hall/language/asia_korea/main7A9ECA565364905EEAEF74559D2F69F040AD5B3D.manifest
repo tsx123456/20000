@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2098614976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b30e639c2d2fc4880b2f6c92e499a4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Hall/language/Asia_Korea/Main/bydr.png
+- Assets/Hall/language/Asia_Korea/Main/hhdz.png
+- Assets/Hall/language/Asia_Korea/Main/hylj.png
+- Assets/Hall/language/Asia_Korea/Main/tb.png
+- Assets/Hall/language/Asia_Korea/Main/Red.png
+- Assets/Hall/language/Asia_Korea/Main/7days.png
+- Assets/Hall/language/Asia_Korea/Main/fklj.png
+- Assets/Hall/language/Asia_Korea/Main/Oline.png
+- Assets/Hall/language/Asia_Korea/Main/byll.png
+- Assets/Hall/language/Asia_Korea/Main/brnn.png
+- Assets/Hall/language/Asia_Korea/Main/DailyCharge.png
+- Assets/Hall/language/Asia_Korea/Main/Jiujijin.png
+- Assets/Hall/language/Asia_Korea/Main/Bind.png
+- Assets/Hall/language/Asia_Korea/Main/FirstCharge.png
+- Assets/Hall/language/Asia_Korea/Main/Zhuanpan.png
+- Assets/Hall/language/Asia_Korea/Main/dds.png
+- Assets/Hall/language/Asia_Korea/Main/bjl.png
+Dependencies: []

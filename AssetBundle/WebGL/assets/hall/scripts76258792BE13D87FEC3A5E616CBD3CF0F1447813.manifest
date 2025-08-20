@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 634896966
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50f5fe19d4d4973b1c36e96b5a731725
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Hall/Scripts/xlua.util.lua.bytes
+- Assets/Hall/Scripts/ProtoDispatch.lua.bytes
+- Assets/Hall/Scripts/paths.lua.bytes
+- Assets/Hall/Scripts/Invoke.lua.bytes
+- Assets/Hall/Scripts/TextEx.lua.bytes
+- Assets/Hall/Scripts/AsynLoad.lua.bytes
+- Assets/Hall/Scripts/GameResEx.lua.bytes
+- Assets/Hall/Scripts/Const.lua.bytes
+- Assets/Hall/Scripts/UtilsStrTool.lua.bytes
+- Assets/Hall/Scripts/Define.lua.bytes
+- Assets/Hall/Scripts/Functions.lua.bytes
+- Assets/Hall/Scripts/language.lua.bytes
+- Assets/Hall/Scripts/Main.lua.bytes
+- Assets/Hall/Scripts/JSON.lua.bytes
+- Assets/Hall/Scripts/Config.lua.bytes
+- Assets/Hall/Scripts/Common.lua.bytes
+- Assets/Hall/Scripts/versions.lua.bytes
+- Assets/Hall/Scripts/CoroutineEx.lua.bytes
+- Assets/Hall/Scripts/list.lua.bytes
+- Assets/Hall/Scripts/ImageEx.lua.bytes
+- Assets/Hall/Scripts/UILableEx.lua.bytes
+- Assets/Hall/Scripts/cs_coroutine.lua.bytes
+- Assets/Hall/Scripts/Timer.lua.bytes
+Dependencies: []

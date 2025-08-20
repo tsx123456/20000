@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1495758297
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae0bd346871577cd181531c2e592d66e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/Materials/Tex/xiaocaoyu.jpg
+- Assets/Fish3D/Materials/Tex/yanweiyu.jpg
+- Assets/Fish3D/Materials/Tex/boss_long.png
+- Assets/Fish3D/Materials/Tex/shandianyu.png
+- Assets/Fish3D/Materials/Tex/xiaoyanpao.jpg
+- Assets/Fish3D/Materials/Tex/wugui.jpg
+- Assets/Fish3D/Materials/Tex/ht.jpg
+- Assets/Fish3D/Materials/Tex/boss_haima.png
+- Assets/Fish3D/Materials/Tex/xiaohuangyu.jpg
+- Assets/Fish3D/Materials/Tex/lanyu.jpg
+- Assets/Fish3D/Materials/Tex/boss_eba.png
+- Assets/Fish3D/Materials/Tex/shitouyu.jpg
+- Assets/Fish3D/Materials/Tex/bianpaoyu.jpg
+- Assets/Fish3D/Materials/Tex/bianfuyu.jpg
+- Assets/Fish3D/Materials/Tex/sy_jin.jpg
+- Assets/Fish3D/Materials/Tex/xiaocouyu.jpg
+- Assets/Fish3D/Materials/Tex/jianyu.jpg
+- Assets/Fish3D/Materials/Tex/jy.jpg
+- Assets/Fish3D/Materials/Tex/ht_jin.jpg
+- Assets/Fish3D/Materials/Tex/redaiyu.jpg
+- Assets/Fish3D/Materials/Tex/datouyu.jpg
+- Assets/Fish3D/Materials/Tex/jianyu2.png
+- Assets/Fish3D/Materials/Tex/jy_jin.jpg
+- Assets/Fish3D/Materials/Tex/bianfuyu2.png
+- Assets/Fish3D/Materials/Tex/newshayu.jpg
+- Assets/Fish3D/Materials/Tex/ciweiyu.jpg
+- Assets/Fish3D/Materials/Tex/zhadantong_1.png
+- Assets/Fish3D/Materials/Tex/lanjin.jpg
+Dependencies: []

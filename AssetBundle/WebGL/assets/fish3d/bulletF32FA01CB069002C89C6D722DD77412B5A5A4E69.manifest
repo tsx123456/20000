@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2242850216
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da1d4b7ab9707249b4c1ef6cc67b86fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 93e4babd43f3bfeb236a087eafa877cc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 041c3e568699b294798bbd95ab4ca5bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e9c188fd7a292941879d81477059be2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/Bullet/Bullet_03.prefab
+- Assets/Fish3D/Bullet/Bullet_04.prefab
+- Assets/Fish3D/Bullet/Bullet_01.prefab
+- Assets/Fish3D/Bullet/Bullet_00.prefab
+- Assets/Fish3D/Bullet/Bullet_02.prefab
+Dependencies:
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/fish3d/eff/materials.ab
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/fish3d/web.ab

@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 138974930
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 200bca6aaf45a268f713c0d631d5c3e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/Textures/CannoIcon/baio3.png
+- Assets/Fish3D/Textures/CannoIcon/0_5 .png
+- Assets/Fish3D/Textures/CannoIcon/biao1.png
+- Assets/Fish3D/Textures/CannoIcon/1_2.png
+- Assets/Fish3D/Textures/CannoIcon/cannoIcon_Atlas.spriteatlasv2
+- Assets/Fish3D/Textures/CannoIcon/faguang.png
+- Assets/Fish3D/Textures/CannoIcon/baio4.png
+- Assets/Fish3D/Textures/CannoIcon/baio5.png
+- Assets/Fish3D/Textures/CannoIcon/2_2.png
+- Assets/Fish3D/Textures/CannoIcon/2_4.png
+- Assets/Fish3D/Textures/CannoIcon/1_3.png
+- Assets/Fish3D/Textures/CannoIcon/28.png
+- Assets/Fish3D/Textures/CannoIcon/3_3.png
+- Assets/Fish3D/Textures/CannoIcon/27.png
+- Assets/Fish3D/Textures/CannoIcon/4_1.png
+- Assets/Fish3D/Textures/CannoIcon/2_3.png
+- Assets/Fish3D/Textures/CannoIcon/3_4.png
+- Assets/Fish3D/Textures/CannoIcon/4_2.png
+- Assets/Fish3D/Textures/CannoIcon/3_1.png
+- Assets/Fish3D/Textures/CannoIcon/4_3.png
+- Assets/Fish3D/Textures/CannoIcon/4_5.png
+- Assets/Fish3D/Textures/CannoIcon/di.png
+- Assets/Fish3D/Textures/CannoIcon/1_5 .png
+- Assets/Fish3D/Textures/CannoIcon/1_1.png
+- Assets/Fish3D/Textures/CannoIcon/0_5.png
+- Assets/Fish3D/Textures/CannoIcon/0_2 .png
+- Assets/Fish3D/Textures/CannoIcon/0_2.png
+- Assets/Fish3D/Textures/CannoIcon/0_4.png
+- Assets/Fish3D/Textures/CannoIcon/3_5.png
+- Assets/Fish3D/Textures/CannoIcon/0_3 .png
+- Assets/Fish3D/Textures/CannoIcon/0_1 .png
+- Assets/Fish3D/Textures/CannoIcon/0_3.png
+- Assets/Fish3D/Textures/CannoIcon/2_1.png
+- Assets/Fish3D/Textures/CannoIcon/0_1.png
+- Assets/Fish3D/Textures/CannoIcon/0_4 .png
+- Assets/Fish3D/Textures/CannoIcon/biao2.png
+- Assets/Fish3D/Textures/CannoIcon/4_4.png
+- Assets/Fish3D/Textures/CannoIcon/1_4.png
+- Assets/Fish3D/Textures/CannoIcon/2_5.png
+- Assets/Fish3D/Textures/CannoIcon/1_5.png
+- Assets/Fish3D/Textures/CannoIcon/3_2.png
+Dependencies: []

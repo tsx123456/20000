@@ -1,0 +1,164 @@
+body {
+	padding: 0;
+	margin: 0
+}
+
+#unity-container {
+	position: absolute
+}
+
+#unity-container.unity-desktop {
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%)
+}
+
+#unity-container.unity-mobile {
+	position: fixed;
+	width: 100%;
+	height: 100%
+}
+
+#unity-canvas {
+	background: #FFFFFF
+}
+
+.unity-mobile #unity-canvas {
+	width: 100%;
+	height: 100%
+}
+
+#unity-loading-bar {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	display: none
+}
+
+#unity-logo {
+	width: 154px;
+	height: 130px;
+	background: url('unity-logo-light.png') no-repeat center
+}
+
+#unity-progress-bar-empty {
+	width: 141px;
+	height: 18px;
+	margin-top: 10px;
+	margin-left: 6.5px;
+	background: url('progress-bar-empty-light.png') no-repeat center
+}
+
+#unity-progress-bar-full {
+	width: 0%;
+	height: 18px;
+	margin-top: 10px;
+	background: url('progress-bar-full-light.png') no-repeat center
+}
+
+#unity-footer {
+	position: relative
+}
+
+.unity-mobile #unity-footer {
+	display: none
+}
+
+#unity-webgl-logo {
+	float: left;
+	width: 204px;
+	height: 38px;
+	background: url('webgl-logo.png') no-repeat center
+}
+
+#unity-build-title {
+	float: right;
+	margin-right: 10px;
+	line-height: 38px;
+	font-family: arial;
+	font-size: 18px
+}
+
+#unity-fullscreen-button {
+	float: right;
+	width: 38px;
+	height: 38px;
+	background: url('fullscreen-button.png') no-repeat center
+}
+
+#unity-warning {
+	position: absolute;
+	left: 50%;
+	top: 5%;
+	transform: translate(-50%);
+	background: white;
+	padding: 10px;
+	display: none
+}
+
+#progress-bar-bg-cover {
+	width: 100vw;
+	height: 100vh;
+	background-color: #000;
+	position: fixed;
+	z-index: 999;
+}
+
+.progress-bar-bg {
+	background-color: #4d4900;
+	width: 100vw;
+	height: .6vh;
+	min-height: 5px;
+	z-index: 10;
+	position: fixed;
+}
+
+#progress-bar-content {
+	background: #59e390;
+	width: 0%;
+	height: .6vh;
+	min-height: 5px;
+}
+
+.progress-bar-image {
+	position: fixed;
+	transform: translateY(-60%) translateX(-50%);
+	top: 50%;
+	left: 50%;
+	z-index: 9;
+}
+
+@media all and (orientation : portrait) {
+	.progress-bar-image {
+		width: 100vw;
+		height: 100vw;
+	}
+}
+
+#initial-loader-1 {
+	background-color: #000;
+	height: 100%;
+	margin: auto;
+	position: fixed;
+	width: 100%;
+	width: 100vw;
+	z-index: 98;
+	height: 100vh;
+	top: 0;
+	left: 0;
+}
+
+.initial-loader-img {
+	position: fixed;
+	transform: translateY(-60%) translateX(-50%);
+	top: 50%;
+	left: 50%;
+}
+
+@media all and (orientation : portrait) {
+	.initial-loader-img {
+		width: 100vw;
+		height: 100vw;
+	}
+}

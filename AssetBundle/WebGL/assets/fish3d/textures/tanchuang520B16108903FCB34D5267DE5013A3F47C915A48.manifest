@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1758211209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c268b5cfe797156436cf8b54c01f1539
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/Textures/tanchuang/tangchuangdi.png
+- Assets/Fish3D/Textures/tanchuang/paotaixuanzhong.png
+- Assets/Fish3D/Textures/tanchuang/taizi.png
+- Assets/Fish3D/Textures/tanchuang/tanchuang_Atlas.spriteatlasv2
+- Assets/Fish3D/Textures/tanchuang/x.png
+Dependencies: []

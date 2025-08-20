@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3469523199
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 937a388afae607ccea6026efba3891fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HallEx/language/Asia_Hindi/Main/chuji.png
+- Assets/HallEx/language/Asia_Hindi/Main/Title16.png
+- Assets/HallEx/language/Asia_Hindi/Main/activity_1.png
+- Assets/HallEx/language/Asia_Hindi/Main/tb_biaoti.png
+- Assets/HallEx/language/Asia_Hindi/Main/dajiangRecord1.png
+- Assets/HallEx/language/Asia_Hindi/Main/activity_0.png
+- Assets/HallEx/language/Asia_Hindi/Main/btn_diamond1.png
+- Assets/HallEx/language/Asia_Hindi/Main/gaoji.png
+- Assets/HallEx/language/Asia_Hindi/Main/bg.png
+- Assets/HallEx/language/Asia_Hindi/Main/personRecord1.png
+- Assets/HallEx/language/Asia_Hindi/Main/zhuanpan_1.png
+- Assets/HallEx/language/Asia_Hindi/Main/btn_gold.png
+- Assets/HallEx/language/Asia_Hindi/Main/dajiangRecord.png
+- Assets/HallEx/language/Asia_Hindi/Main/zhongji.png
+- Assets/HallEx/language/Asia_Hindi/Main/btn_diamond.png
+- Assets/HallEx/language/Asia_Hindi/Main/btn_silver1.png
+- Assets/HallEx/language/Asia_Hindi/Main/FirstCharge_title.png
+- Assets/HallEx/language/Asia_Hindi/Main/personRecord.png
+- Assets/HallEx/language/Asia_Hindi/Main/btn_gold1.png
+- Assets/HallEx/language/Asia_Hindi/Main/btn_silver.png
+- Assets/HallEx/language/Asia_Hindi/Main/btn_start1.png
+- Assets/HallEx/language/Asia_Hindi/Main/cb_biaoti.png
+- Assets/HallEx/language/Asia_Hindi/Main/xinshou.png
+- Assets/HallEx/language/Asia_Hindi/Main/xyzp.png
+- Assets/HallEx/language/Asia_Hindi/Main/jinfen_tomorrow.png
+- Assets/HallEx/language/Asia_Hindi/Main/Title6.png
+- Assets/HallEx/language/Asia_Hindi/Main/ljbd_bt.png
+- Assets/HallEx/language/Asia_Hindi/Main/zhuanpan_3.png
+- Assets/HallEx/language/Asia_Hindi/Main/zhuanpan_2.png
+- Assets/HallEx/language/Asia_Hindi/Main/Title22.png
+Dependencies: []

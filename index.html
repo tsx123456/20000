@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | fish3d</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+</head>
+<body>
+<div id="progress-bar-bg-cover">
+    <div class="progress-bar-bg">
+        <div id="progress-bar-content"></div>
+    </div>
+    <img id="animatedGif" class="progress-bar-image" src="./TemplateData/入場.webp" alt="" srcset="" />
+</div>
+<div id="initial-loader-1">
+    <img class="initial-loader-img" src="./TemplateData/循環.webp" alt="" srcset="" />
+</div>
+<div id="unity-container" class="unity-desktop">
+    <canvas id="unity-canvas" width=960 height=600></canvas>
+    <div id="unity-loading-bar">
+        <div id="unity-logo"></div>
+        <div id="unity-progress-bar-empty">
+            <div id="unity-progress-bar-full"></div>
+        </div>
+    </div>
+    <div id="unity-warning"> </div>
+</div>
+    <script>
+        var container = document.querySelector("#unity-container");
+        var canvas = document.querySelector("#unity-canvas");
+        var loadingBar = document.querySelector("#unity-loading-bar");
+        var progressBarFull = document.querySelector("#unity-progress-bar-full");
+        // var fullscreenButton = document.querySelector("#unity-fullscreen-button");
+        var warningBanner = document.querySelector("#unity-warning");
+
+        var progressBarBg = document.getElementById('progress-bar-bg-cover');
+        var progressBarContent = document.getElementById('progress-bar-content');
+        var progressBarLen = 0;
+        let domSvg = document.getElementById("initial-loader-1");
+        var timer = 0;
+        var alpha = 1;
+        var progressState = false
+
+        reloadAnimation()
+
+        // Shows a temporary message banner/ribbon for a few seconds, or
+        // a permanent error message on top of the canvas if type=='error'.
+        // If type=='warning', a yellow highlight color is used.
+        // Modify or remove this function to customize the visually presented
+        // way that non-critical warnings and error messages are presented to the
+        // user.
+
+        function unityShowBanner(msg, type) {
+            function updateBannerVisibility() {
+                warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
+            }
+            var div = document.createElement('div');
+            div.innerHTML = msg;
+            warningBanner.appendChild(div);
+            if (type == 'error') div.style = 'background: red; padding: 10px;';
+            else {
+                if (type == 'warning') div.style = 'background: yellow; padding: 10px;';
+                setTimeout(function() {
+                    warningBanner.removeChild(div);
+                    updateBannerVisibility();
+                }, 5000);
+            }
+            updateBannerVisibility();
+        }
+
+      var buildUrl = "Build";
+      var loaderUrl = buildUrl + "/20002_br.loader.js";
+      var config = {
+        dataUrl: buildUrl + "/4f60bc9f3ceda294b1d0dc1b8104656b.data.unityweb",
+        frameworkUrl: buildUrl + "/bedb3ab6e5937092ea552314a531a507.js.unityweb",
+        codeUrl: buildUrl + "/f4bec17363967654c2f7e3732de47188.wasm.unityweb",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "fish3d",
+        productName: "fish3d",
+        productVersion: "1.0.0",
+        showBanner: unityShowBanner,
+      };
+
+      // By default Unity keeps WebGL canvas render target size matched with
+      // the DOM size of the canvas element (scaled by window.devicePixelRatio)
+      // Set this to false if you want to decouple this synchronization from
+      // happening inside the engine, and you would instead like to size up
+      // the canvas DOM size and WebGL render target sizes yourself.
+      // config.matchWebGLToCanvasSize = false;
+
+      // if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+      //   // Mobile device style: fill the whole browser client area with the game canvas:
+      //
+      //   var meta = document.createElement('meta');
+      //   meta.name = 'viewport';
+      //   meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
+      //   document.getElementsByTagName('head')[0].appendChild(meta);
+      //   container.className = "unity-mobile";
+      //   canvas.className = "unity-mobile";
+      //
+      //   // To lower canvas resolution on mobile devices to gain some
+      //   // performance, uncomment the following line:
+      //   // config.devicePixelRatio = 1;
+      // } else {
+      //   // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
+      //
+      //   canvas.style.width = "960px";
+      //   canvas.style.height = "600px";
+      // }
+
+        var meta = document.createElement('meta');
+        meta.name = 'viewport';
+        meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
+        document.getElementsByTagName('head')[0].appendChild(meta);
+        container.className = "unity-mobile";
+        canvas.className = "unity-mobile";
+
+// #if BACKGROUND_FILENAME
+//       canvas.style.background = "url('" + buildUrl + "/') center / cover";
+// #endif
+      loadingBar.style.display = "block";
+
+        var progressBarTime = setInterval(
+            function() {
+                if (progressBarLen < 70) {
+                    progressBarLen += .5
+                    progressBarContent.style.width = progressBarLen + '%'
+                    progressBarColor(progressBarLen)
+                } else if (progressState && progressBarLen < 100) {
+                    progressBarLen += 1
+                    progressBarContent.style.width = progressBarLen + '%'
+                    progressBarColor(progressBarLen)
+                } else if (progressBarLen >= 100) {
+                    clearInterval(progressBarTime);
+                    progressBarBg.style.opacity = 0
+                    progressBarBg.style.display = 'none'
+                    progressBarBg.remove()
+                    setTimeout(() => {
+                        fadeInOut();
+                    }, 1500);
+                }
+            }, 16);
+
+      var script = document.createElement("script");
+      script.src = loaderUrl;
+      script.onload = () => {
+          createUnityInstance(canvas, config, (progress) => {
+              progressBarFull.style.width = 100 * progress + "%";
+
+              if (progress >= 1) {
+                  progressState = true
+              }
+        }).then((unityInstance) => {
+          loadingBar.style.display = "none";
+          // fullscreenButton.onclick = () => {
+          //   unityInstance.SetFullscreen(1);
+          // };
+        }).catch((message) => {
+          alert(message);
+        });
+      };
+      document.body.appendChild(script);
+
+        function reloadAnimation() {
+            let img = document.getElementById("animatedGif");
+            const originalSrc = img.src;
+
+            // 清空src再重新设置
+            img.src = 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==';
+
+            // 使用setTimeout确保重载生效
+            setTimeout(() => {
+                img.src = `${originalSrc}?t=${Date.now()}`;
+            }, 50);
+        }
+
+        function progressBarColor(num) {
+            if (num <= 40) {
+                progressBarContent.style.backgroundColor = "#FFF100"
+            } else if (num <= 60) {
+                progressBarContent.style.backgroundColor = "#c8e35a"
+            } else if (num <= 80) {
+                progressBarContent.style.backgroundColor = "#9de36f"
+            } else {
+                progressBarContent.style.backgroundColor = "#59e390"
+            }
+        }
+
+        function fadeInOut(value) {
+            clearInterval(timer);
+            timer = setInterval(
+                function() {
+                    alpha -= 0.1;
+                    domSvg.style.opacity = alpha;
+                    if (alpha <= 0) {
+                        clearInterval(timer);
+                        domSvg.remove()
+                    }
+                }, 100);
+        }
+    </script>
+</body>
+<style>
+    #progress-bar-bg-cover {
+        width: 100vw;
+        height: 100vh;
+        background-color: #000;
+        position: fixed;
+        z-index: 999;
+    }
+
+    .progress-bar-bg {
+        background-color: #4d4900;
+        width: 100vw;
+        height: .6vh;
+        min-height: 5px;
+        z-index: 10;
+        position: fixed;
+    }
+
+    #progress-bar-content {
+        background: #59e390;
+        width: 0%;
+        height: .6vh;
+        min-height: 5px;
+    }
+
+    .progress-bar-image {
+        position: fixed;
+        transform: translateY(-60%) translateX(-50%);
+        top: 50%;
+        left: 50%;
+        z-index: 9;
+    }
+
+    @media all and (orientation : portrait) {
+        .progress-bar-image {
+            width: 100vw;
+            height: 100vw;
+        }
+    }
+
+    #initial-loader-1 {
+        background-color: #000;
+        height: 100%;
+        margin: auto;
+        position: fixed;
+        width: 100%;
+        width: 100vw;
+        z-index: 98;
+        height: 100vh;
+        top: 0;
+        left: 0;
+    }
+
+    .initial-loader-img {
+        position: fixed;
+        transform: translateY(-60%) translateX(-50%);
+        top: 50%;
+        left: 50%;
+    }
+
+    @media all and (orientation : portrait) {
+        .initial-loader-img {
+            width: 100vw;
+            height: 100vw;
+        }
+    }
+</style>
+</html>

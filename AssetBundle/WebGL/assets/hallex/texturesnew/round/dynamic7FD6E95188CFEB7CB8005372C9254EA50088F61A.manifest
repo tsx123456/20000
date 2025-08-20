@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 688370688
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee269606d20a6131f04a8f4acf75ed81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HallEx/TexturesNew/Round/Dynamic/Title16.png
+- Assets/HallEx/TexturesNew/Round/Dynamic/btdi.png
+- Assets/HallEx/TexturesNew/Round/Dynamic/Title23.png
+- Assets/HallEx/TexturesNew/Round/Dynamic/bg22.jpg
+- Assets/HallEx/TexturesNew/Round/Dynamic/Title22.png
+- Assets/HallEx/TexturesNew/Round/Dynamic/Title24.png
+- Assets/HallEx/TexturesNew/Round/Dynamic/bg16.jpg
+- Assets/HallEx/TexturesNew/Round/Dynamic/bg6.jpg
+- Assets/HallEx/TexturesNew/Round/Dynamic/Title6.png
+- Assets/HallEx/TexturesNew/Round/Dynamic/backbtn.png
+- Assets/HallEx/TexturesNew/Round/Dynamic/bg24.jpg
+- Assets/HallEx/TexturesNew/Round/Dynamic/bg23.jpg
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3240089564
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d90134bcfb48aad6aa5b769526c96996
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 85ef5359b4a38e4c5b84b0019aa6aaac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d72ded93bc0dcf94186f466a03f8b252, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 590cd2f0497a9824dbd1dc4a8c01993c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: PosAndAngle
+- AssemblyName: Assembly-CSharp
+  ClassName: RangeFloat
+- AssemblyName: Assembly-CSharp
+  ClassName: RangeVector3
+Assets:
+- "Assets/Fish3D/Fish_Path/\u5DE6_\u53F3_\u87BA\u65CB.prefab"
+- "Assets/Fish3D/Fish_Path/\u5DE6\u4E2D\u8FDB_\u53F3\u4E2D\u51FA.prefab"
+- "Assets/Fish3D/Fish_Path/\u4E0A_\u4E0B_\u87BA\u65CB.prefab"
+- "Assets/Fish3D/Fish_Path/Y\u8F74\u73AF\u7ED5_\u5DE6\u51FA.prefab"
+- "Assets/Fish3D/Fish_Path/\u53F3\u4E0B\u8FDB_\u5DE6\u4E0A\u51FA.prefab"
+- "Assets/Fish3D/Fish_Path/Y\u8F74\u73AF\u7ED5_\u53F3\u51FA.prefab"
+- "Assets/Fish3D/Fish_Path/\u4E2D\u8FDB_\u4E2D\u51FA.prefab"
+- "Assets/Fish3D/Fish_Path/\u5DE6_\u53F3_S.prefab"
+- "Assets/Fish3D/Fish_Path/\u5DE6\u4E0A\u8FDB_\u53F3\u4E0B\u51FA.prefab"
+Dependencies: []

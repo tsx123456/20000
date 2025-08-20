@@ -1,0 +1,99 @@
+ManifestFileVersion: 0
+CRC: 1225350491
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a8b050f0cb4d6522918aaa25d55bbd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2a0b6003d206c88f73c8a11e8a3d8887
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3311da69d5c8cb84cbdf2574c0903789, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a7fb345148911f44bf5df5d40ff11e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 590cd2f0497a9824dbd1dc4a8c01993c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92f24e31343e4e5498aadeb90ca525c8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: EGeomitry
+- AssemblyName: Assembly-CSharp
+  ClassName: RangeFloat
+- AssemblyName: Assembly-CSharp
+  ClassName: RangeInt
+- AssemblyName: Assembly-CSharp
+  ClassName: RangeVector3
+Assets:
+- "Assets/Fish3D/Fish/\u626F\u65D7\u9C7C_\u7EA2.prefab"
+- "Assets/Fish3D/Fish/\u5C0F\u84DD\u9C7C_\u84DD\u5E1D\u738B.prefab"
+- "Assets/Fish3D/Fish/\u72EE\u5B50\u9C7C.prefab"
+- "Assets/Fish3D/Fish/\u9CA8\u9C7C_\u84DD.prefab"
+- "Assets/Fish3D/Fish/\u5730\u9CB6\u9C7C.prefab"
+- "Assets/Fish3D/Fish/\u5929\u4F7F\u9C7C\u5E1D\u738B.prefab"
+- "Assets/Fish3D/Fish/\u6D77\u9F9F.prefab"
+- "Assets/Fish3D/Fish/\u5251\u9C7C.prefab"
+- "Assets/Fish3D/Fish/\u8759\u8760\u9C7C_\u91D1.prefab"
+- "Assets/Fish3D/Fish/\u626F\u65D7\u9C7C_\u84DD.prefab"
+- "Assets/Fish3D/Fish/\u70B8\u5F39\u9C7C.prefab"
+- "Assets/Fish3D/Fish/\u5C0F\u4E11\u9C7C.prefab"
+- "Assets/Fish3D/Fish/\u5251\u9C7C_\u91D1.prefab"
+- "Assets/Fish3D/Fish/\u7535\u9CD7_\u84DD.prefab"
+- "Assets/Fish3D/Fish/BOSS\u87F9.prefab"
+- "Assets/Fish3D/Fish/\u5929\u4F7F\u9C7C.prefab"
+- "Assets/Fish3D/Fish/\u706F\u7B3C\u9C7C_\u84DD.prefab"
+- "Assets/Fish3D/Fish/BOSS\u867E.prefab"
+- "Assets/Fish3D/Fish/\u9C82\u9C7C.prefab"
+- "Assets/Fish3D/Fish/\u95EA\u7535\u9C7C.prefab"
+- "Assets/Fish3D/Fish/\u9CA8\u9C7C_\u91D1.prefab"
+- "Assets/Fish3D/Fish/\u706F\u7B3C\u9C7C_\u91D1.prefab"
+- "Assets/Fish3D/Fish/BOSS\u9F99.prefab"
+- "Assets/Fish3D/Fish/\u6CB3\u8C5A_\u84DD.prefab"
+- "Assets/Fish3D/Fish/\u7535\u9CD7_\u91D1.prefab"
+- "Assets/Fish3D/Fish/\u5C0F\u84DD\u9C7C_\u84DD.prefab"
+- Assets/Fish3D/Fish/Fish_Leader.prefab
+- "Assets/Fish3D/Fish/\u5C0F\u84DD\u9C7C_\u7D2B.prefab"
+- "Assets/Fish3D/Fish/\u8759\u8760\u9C7C_\u84DD.prefab"
+Dependencies:
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/fish3d/eff/materials.ab
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/fish3d/eff/textures.ab
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/fish3d/language/cn_ch/fishname.ab
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/fish3d/materials/mat.ab

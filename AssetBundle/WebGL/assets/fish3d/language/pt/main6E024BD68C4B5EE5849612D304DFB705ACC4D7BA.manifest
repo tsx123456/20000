@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2034892536
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0106ddb2d8f117ca09e0b0161532a91a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Fish3D/language/pt/Main/\u666E\u901A\u70AE\u53F0.png"
+- Assets/Fish3D/language/pt/Main/ziyougongji.png
+- Assets/Fish3D/language/pt/Main/jiesuo.png
+- Assets/Fish3D/language/pt/Main/dengdaijiaru.png
+- Assets/Fish3D/language/pt/Main/suodinggongji.png
+- Assets/Fish3D/language/pt/Main/buytujian.png
+- Assets/Fish3D/language/pt/Main/tujian.png
+- Assets/Fish3D/language/pt/Main/goumaipaotai.png
+- Assets/Fish3D/language/pt/Main/anniu.png
+- "Assets/Fish3D/language/pt/Main/\u6F5C\u8247\u7CFB\u5217.png"
+- "Assets/Fish3D/language/pt/Main/\u9AD8\u8FBE\u7CFB\u5217.png"
+- Assets/Fish3D/language/pt/Main/youarehere.png
+- Assets/Fish3D/language/pt/Main/ptMain_Atlas.spriteatlasv2
+- Assets/Fish3D/language/pt/Main/tuichu.png
+- Assets/Fish3D/language/pt/Main/jisugongji.png
+- Assets/Fish3D/language/pt/Main/paotaitu.png
+- "Assets/Fish3D/language/pt/Main/\u6BD2\u5996\u7CFB\u5217.png"
+- "Assets/Fish3D/language/pt/Main/\u6076\u9B54\u7CFB\u5217.png"
+Dependencies: []

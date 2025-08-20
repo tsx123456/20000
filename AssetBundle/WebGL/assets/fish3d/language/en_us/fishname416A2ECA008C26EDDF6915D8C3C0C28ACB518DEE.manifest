@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3019398802
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1b2ea5238565320c32c7ed67c620775
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/language/en_US/FishName/hongbanyu.png
+- Assets/Fish3D/language/en_US/FishName/yanweiyu.png
+- Assets/Fish3D/language/en_US/FishName/heisha.png
+- Assets/Fish3D/language/en_US/FishName/lvbanyu.png
+- Assets/Fish3D/language/en_US/FishName/haimaqishi.png
+- Assets/Fish3D/language/en_US/FishName/shandianyu.png
+- Assets/Fish3D/language/en_US/FishName/bianfuyu.png
+- Assets/Fish3D/language/en_US/FishName/xiannvyu.png
+- Assets/Fish3D/language/en_US/FishName/dianman.png
+- Assets/Fish3D/language/en_US/FishName/shayu.png
+- Assets/Fish3D/language/en_US/FishName/jingyu.png
+- Assets/Fish3D/language/en_US/FishName/zhayaotong.png
+- Assets/Fish3D/language/en_US/FishName/huangjinbianfuyu.png
+- Assets/Fish3D/language/en_US/FishName/haigui.png
+- Assets/Fish3D/language/en_US/FishName/huangjinshayu.png
+- Assets/Fish3D/language/en_US/FishName/ciweiyu.png
+- Assets/Fish3D/language/en_US/FishName/xiaocaoyu.png
+- Assets/Fish3D/language/en_US/FishName/denglongyu.png
+- Assets/Fish3D/language/en_US/FishName/xiaolanyu.png
+- Assets/Fish3D/language/en_US/FishName/redaiyu.png
+- Assets/Fish3D/language/en_US/FishName/huangjinjingyu.png
+- Assets/Fish3D/language/en_US/FishName/datouyu.png
+- Assets/Fish3D/language/en_US/FishName/jianyu.png
+- Assets/Fish3D/language/en_US/FishName/shenhaieba.png
+- Assets/Fish3D/language/en_US/FishName/yuangujulong.png
+- Assets/Fish3D/language/en_US/FishName/huangjinjianyu.png
+- Assets/Fish3D/language/en_US/FishName/xiaochouyu.png
+- Assets/Fish3D/language/en_US/FishName/huangjinheisha.png
+Dependencies: []

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1979050219
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1521ebfbb498fd44eaf8d6a27362478
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HallEx/Audios/luckypan_win.mp3
+- Assets/HallEx/Audios/open_box.mp3
+- Assets/HallEx/Audios/luckypan_roll.mp3
+- Assets/HallEx/Audios/LobbyBGM.ogg
+- "Assets/HallEx/Audios/\u83B7\u5F97\u5956\u52B1.mp3"
+- Assets/HallEx/Audios/Btn_Click.ogg
+- Assets/HallEx/Audios/lobby_bgm.mp3
+- Assets/HallEx/Audios/ship_go.mp3
+- "Assets/HallEx/Audios/\u83B7\u5F97\u5956\u52B1.ogg"
+Dependencies: []

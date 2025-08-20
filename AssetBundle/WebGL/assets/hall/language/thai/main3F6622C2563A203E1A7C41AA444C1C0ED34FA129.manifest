@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 848555449
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42c149a42295c2b3ba0b3206760a8dc1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Hall/language/Thai/Main/hhdz.png
+- Assets/Hall/language/Thai/Main/DailyCharge.png
+- Assets/Hall/language/Thai/Main/bjl.png
+- Assets/Hall/language/Thai/Main/Oline.png
+- Assets/Hall/language/Thai/Main/byll.png
+- Assets/Hall/language/Thai/Main/bydr.png
+- Assets/Hall/language/Thai/Main/Zhuanpan.png
+- Assets/Hall/language/Thai/Main/7days.png
+- Assets/Hall/language/Thai/Main/fklj.png
+- Assets/Hall/language/Thai/Main/dds.png
+- Assets/Hall/language/Thai/Main/Red.png
+- Assets/Hall/language/Thai/Main/Jiujijin.png
+- Assets/Hall/language/Thai/Main/FirstCharge.png
+- Assets/Hall/language/Thai/Main/Bind.png
+- Assets/Hall/language/Thai/Main/hylj.png
+- Assets/Hall/language/Thai/Main/tb.png
+- Assets/Hall/language/Thai/Main/brnn.png
+Dependencies: []

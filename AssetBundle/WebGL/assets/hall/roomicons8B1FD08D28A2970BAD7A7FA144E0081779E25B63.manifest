@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 4289618666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67e97a7adc542fe2e804e298e9353738
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe97d37a8e742fac2bf9152450577c33
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3897339bf37dbcf46a7a020b38269ea0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d367a049c9f3fde43b1006c087086d28, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.MeshGenerator
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.MeshGenerator/Settings
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Hall/RoomIcons/game_22_room_3.prefab
+- Assets/Hall/RoomIcons/game_22_room_1.prefab
+- Assets/Hall/RoomIcons/game_22_room_2.prefab
+- Assets/Hall/RoomIcons/game_22_room_0.prefab
+Dependencies:
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/hall/font/font6.ab
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/hall/spine/longwangbuyu_cjc.ab
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/hall/spine/longwangbuyu_gjc.ab
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/hall/spine/longwangbuyu_tyc.ab
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/hall/spine/longwangbuyu_zjc.ab

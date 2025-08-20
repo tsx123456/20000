@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1279476553
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ba15c8742fffd9f9f8df0f9f4e49842
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HallEx/language/Asia_Japan/Main/tb_biaoti.png
+- Assets/HallEx/language/Asia_Japan/Main/FirstCharge_title.png
+- Assets/HallEx/language/Asia_Japan/Main/zhuanpan_3.png
+- Assets/HallEx/language/Asia_Japan/Main/Title22.png
+- Assets/HallEx/language/Asia_Japan/Main/activity_0.png
+- Assets/HallEx/language/Asia_Japan/Main/btn_diamond.png
+- Assets/HallEx/language/Asia_Japan/Main/xinshou.png
+- Assets/HallEx/language/Asia_Japan/Main/zhuanpan_2.png
+- Assets/HallEx/language/Asia_Japan/Main/chuji.png
+- Assets/HallEx/language/Asia_Japan/Main/jinfen_tomorrow.png
+- Assets/HallEx/language/Asia_Japan/Main/btn_start1.png
+- Assets/HallEx/language/Asia_Japan/Main/personRecord.png
+- Assets/HallEx/language/Asia_Japan/Main/Title6.png
+- Assets/HallEx/language/Asia_Japan/Main/dajiangRecord.png
+- Assets/HallEx/language/Asia_Japan/Main/Title16.png
+- Assets/HallEx/language/Asia_Japan/Main/bg.png
+- Assets/HallEx/language/Asia_Japan/Main/btn_gold1.png
+- Assets/HallEx/language/Asia_Japan/Main/gaoji.png
+- Assets/HallEx/language/Asia_Japan/Main/zhuanpan_1.png
+- Assets/HallEx/language/Asia_Japan/Main/btn_silver1.png
+- Assets/HallEx/language/Asia_Japan/Main/activity_1.png
+- Assets/HallEx/language/Asia_Japan/Main/btn_gold.png
+- Assets/HallEx/language/Asia_Japan/Main/ljbd_bt.png
+- Assets/HallEx/language/Asia_Japan/Main/cb_biaoti.png
+- Assets/HallEx/language/Asia_Japan/Main/personRecord1.png
+- Assets/HallEx/language/Asia_Japan/Main/btn_silver.png
+- Assets/HallEx/language/Asia_Japan/Main/zhongji.png
+- Assets/HallEx/language/Asia_Japan/Main/btn_diamond1.png
+- Assets/HallEx/language/Asia_Japan/Main/xyzp.png
+- Assets/HallEx/language/Asia_Japan/Main/dajiangRecord1.png
+Dependencies: []

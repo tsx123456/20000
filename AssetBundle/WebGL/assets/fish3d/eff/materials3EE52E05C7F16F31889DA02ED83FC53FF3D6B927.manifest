@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 391891103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7fbe73c944994b0c3b9682182a4f2b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 661b9e997c931501d0e4861c1d933db7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/Eff/Materials/pao1 (5).mat
+- Assets/Fish3D/Eff/Materials/pao1 (1).mat
+- Assets/Fish3D/Eff/Materials/45905_ATEXDXT1png.mat
+- Assets/Fish3D/Eff/Materials/130000faguang.mat
+- Assets/Fish3D/Eff/Materials/Mask_337.mat
+- Assets/Fish3D/Eff/Materials/Wanme1688.mat
+- Assets/Fish3D/Eff/Materials/wang (3).mat
+- Assets/Fish3D/Eff/Materials/quan.mat
+- Assets/Fish3D/Eff/Materials/Lighting.mat
+- Assets/Fish3D/Eff/Materials/pao1 (2).mat
+- Assets/Fish3D/Eff/Materials/fair 2.mat
+- Assets/Fish3D/Eff/Materials/Buyu_No Name.mat
+- "Assets/Fish3D/Eff/Materials/shandian\u2014001.mat"
+- Assets/Fish3D/Eff/Materials/17.mat
+- Assets/Fish3D/Eff/Materials/4740.mat
+- Assets/Fish3D/Eff/Materials/efxy_glow012.mat
+- Assets/Fish3D/Eff/Materials/0300.mat
+- Assets/Fish3D/Eff/Materials/pao1 (3).mat
+- Assets/Fish3D/Eff/Materials/SkeletonGraphicDefault.mat
+- Assets/Fish3D/Eff/Materials/wang (1).mat
+- Assets/Fish3D/Eff/Materials/wang (4).mat
+- Assets/Fish3D/Eff/Materials/llz072.mat
+- Assets/Fish3D/Eff/Materials/GF_467.mat
+- Assets/Fish3D/Eff/Materials/wang (2).mat
+- Assets/Fish3D/Eff/Materials/773.mat
+- Assets/Fish3D/Eff/Materials/pao1 (4).mat
+- Assets/Fish3D/Eff/Materials/Barbarian_overPowerRune_weapons_flash_1_00000.mat
+- Assets/Fish3D/Eff/Materials/wang (5).mat
+- Assets/Fish3D/Eff/Materials/No Name.mat
+Dependencies:
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/fish3d/eff/shaders.ab
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/fish3d/eff/textures.ab

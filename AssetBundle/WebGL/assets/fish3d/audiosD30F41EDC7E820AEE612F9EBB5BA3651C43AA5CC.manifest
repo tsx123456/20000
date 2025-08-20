@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2225891762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d3a0a1b00d303527afded9f33a51f17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/Audios/FX_huofen03.mp3
+- Assets/Fish3D/Audios/Die_Small_03.mp3
+- Assets/Fish3D/Audios/FX_Shoot.mp3
+- Assets/Fish3D/Audios/dadaojisusuoding.mp3
+- Assets/Fish3D/Audios/bossCome.mp3
+- Assets/Fish3D/Audios/FX_huofen02.mp3
+- Assets/Fish3D/Audios/FX_huofen01.mp3
+- Assets/Fish3D/Audios/Die_Small_02.mp3
+- Assets/Fish3D/Audios/fire3.mp3
+- Assets/Fish3D/Audios/_bgm_map.mp3
+- Assets/Fish3D/Audios/_bgm_bossCom.mp3
+- Assets/Fish3D/Audios/FX_CannoEquip.mp3
+- Assets/Fish3D/Audios/dadaozuanshi.mp3
+Dependencies: []

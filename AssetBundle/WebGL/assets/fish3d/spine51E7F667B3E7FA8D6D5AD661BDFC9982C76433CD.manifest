@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 985501251
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 060d70b56e55f268a805b3b274c9f15b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e46e7e4b877bfdeb69198a9fd36ef50e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/Spine/pao_4_SkeletonData.asset
+- Assets/Fish3D/Spine/pao_2.json
+- Assets/Fish3D/Spine/pao_4.png
+- Assets/Fish3D/Spine/pao_1_Atlas.asset
+- Assets/Fish3D/Spine/pao_4.json
+- Assets/Fish3D/Spine/pao_5_SkeletonData.asset
+- Assets/Fish3D/Spine/pao_1_Material.mat
+- Assets/Fish3D/Spine/pao_5_Material.mat
+- Assets/Fish3D/Spine/pao_2_Material.mat
+- Assets/Fish3D/Spine/pao_1.png
+- Assets/Fish3D/Spine/pao_1.json
+- Assets/Fish3D/Spine/pao_3.png
+- Assets/Fish3D/Spine/pao_1.atlas.txt
+- Assets/Fish3D/Spine/pao_4_Material.mat
+- Assets/Fish3D/Spine/pao_5.json
+- Assets/Fish3D/Spine/pao_2.png
+- Assets/Fish3D/Spine/pao_4.atlas.txt
+- Assets/Fish3D/Spine/pao_1_SkeletonData.asset
+- Assets/Fish3D/Spine/pao_3_SkeletonData.asset
+- Assets/Fish3D/Spine/pao_3.atlas.txt
+- Assets/Fish3D/Spine/pao_2_Atlas.asset
+- Assets/Fish3D/Spine/pao_2.atlas.txt
+- Assets/Fish3D/Spine/pao_5_Atlas.asset
+- Assets/Fish3D/Spine/pao_5.atlas.txt
+- Assets/Fish3D/Spine/pao_2_SkeletonData.asset
+- Assets/Fish3D/Spine/pao_3_Material.mat
+- Assets/Fish3D/Spine/pao_3_Atlas.asset
+- Assets/Fish3D/Spine/pao_3.json
+- Assets/Fish3D/Spine/pao_5.png
+- Assets/Fish3D/Spine/pao_4_Atlas.asset
+Dependencies:
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/fish3d/eff/shaders.ab

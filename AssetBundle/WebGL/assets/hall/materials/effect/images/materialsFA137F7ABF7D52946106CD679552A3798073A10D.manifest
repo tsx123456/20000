@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3857027708
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc6a86433a2f26d7d24b07ef2e74d910
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 661b9e997c931501d0e4861c1d933db7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Hall/Materials/Effect/Images/Materials/Ray_01_T.mat
+- Assets/Hall/Materials/Effect/Images/Materials/Light_10_T.mat
+Dependencies:
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/hall/materials/effect/images/texture.ab

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 803939894
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5674ac675177391d010663ce3ac67b37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HallEx/TexturesNew/Round/kuailebuyu/xinshou.png
+- Assets/HallEx/TexturesNew/Round/kuailebuyu/3.png
+- Assets/HallEx/TexturesNew/Round/kuailebuyu/4.png
+- Assets/HallEx/TexturesNew/Round/kuailebuyu/chuji.png
+- Assets/HallEx/TexturesNew/Round/kuailebuyu/difen.png
+- Assets/HallEx/TexturesNew/Round/kuailebuyu/enterRoom.png
+- Assets/HallEx/TexturesNew/Round/kuailebuyu/gaoji.png
+- Assets/HallEx/TexturesNew/Round/kuailebuyu/UnderScore.png
+- Assets/HallEx/TexturesNew/Round/kuailebuyu/zhongji.png
+- Assets/HallEx/TexturesNew/Round/kuailebuyu/1.png
+- Assets/HallEx/TexturesNew/Round/kuailebuyu/2.png
+Dependencies: []

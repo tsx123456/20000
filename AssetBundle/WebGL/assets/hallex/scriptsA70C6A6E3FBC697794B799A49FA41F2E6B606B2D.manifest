@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 2574975170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02e79da3df79484e4d6836902fca6750
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HallEx/Scripts/GonggaoAndActivity.lua.bytes
+- Assets/HallEx/Scripts/GameNoticeWnd.lua.bytes
+- Assets/HallEx/Scripts/ForgotPasswordWnd.lua.bytes
+- Assets/HallEx/Scripts/ReliefWnd.lua.bytes
+- Assets/HallEx/Scripts/Xima.lua.bytes
+- Assets/HallEx/Scripts/BindReminderWnd.lua.bytes
+- Assets/HallEx/Scripts/BindAndPoliteWnd.lua.bytes
+- Assets/HallEx/Scripts/InvitationCodeWnd.lua.bytes
+- Assets/HallEx/Scripts/FirstChargeWnd.lua.bytes
+- Assets/HallEx/Scripts/LoginWnd.lua.bytes
+- Assets/HallEx/Scripts/AwardWnd.lua.bytes
+- Assets/HallEx/Scripts/TuiguangActity_getList.lua.bytes
+- Assets/HallEx/Scripts/RegisterWnd.lua.bytes
+- Assets/HallEx/Scripts/ShareQRWnd.lua.bytes
+- Assets/HallEx/Scripts/TuiguangActity_yongjinList.lua.bytes
+- Assets/HallEx/Scripts/BlockChainDrawHistory.lua.bytes
+- Assets/HallEx/Scripts/TuiguangActity_zhishuDetail.lua.bytes
+- Assets/HallEx/Scripts/PlatformWnd.lua.bytes
+- Assets/HallEx/Scripts/Xima_detail.lua.bytes
+- Assets/HallEx/Scripts/BlockChainDrawChooseWallet.lua.bytes
+- Assets/HallEx/Scripts/FirstChargeFLWnd.lua.bytes
+- Assets/HallEx/Scripts/BlockChainShopDraw.lua.bytes
+- Assets/HallEx/Scripts/ActivityWnd.lua.bytes
+- Assets/HallEx/Scripts/BindPhoneWnd.lua.bytes
+- Assets/HallEx/Scripts/RoleInfoWnd.lua.bytes
+- Assets/HallEx/Scripts/ActivityAwardWnd.lua.bytes
+- Assets/HallEx/Scripts/BlockChainShop.lua.bytes
+- Assets/HallEx/Scripts/CashRuleWnd.lua.bytes
+- Assets/HallEx/Scripts/BlockChainChargeHistoryDetail.lua.bytes
+- Assets/HallEx/Scripts/TianjiangRedWnd.lua.bytes
+- Assets/HallEx/Scripts/ServiceWnd.lua.bytes
+- Assets/HallEx/Scripts/RedPacketWnd.lua.bytes
+- Assets/HallEx/Scripts/ShopWnd.lua.bytes
+- Assets/HallEx/Scripts/TuiguangActity_yejiDetail.lua.bytes
+- Assets/HallEx/Scripts/WithdrawWnd.lua.bytes
+- Assets/HallEx/Scripts/WebWnd.lua.bytes
+- Assets/HallEx/Scripts/MakeMoneyWnd.lua.bytes
+- Assets/HallEx/Scripts/MailWnd.lua.bytes
+- Assets/HallEx/Scripts/BlockChainEditList.lua.bytes
+- Assets/HallEx/Scripts/Shop_chargeHistory.lua.bytes
+- Assets/HallEx/Scripts/BlockChainDrawHistoryDetail.lua.bytes
+- Assets/HallEx/Scripts/ActityCenterTurntable.lua.bytes
+- Assets/HallEx/Scripts/BagWnd.lua.bytes
+- Assets/HallEx/Scripts/ActityCenterBindReward.lua.bytes
+- Assets/HallEx/Scripts/LuckyPanWnd.lua.bytes
+- Assets/HallEx/Scripts/TuiguangActity.lua.bytes
+- Assets/HallEx/Scripts/WithdrawWnd_record.lua.bytes
+- Assets/HallEx/Scripts/BlockChainChargeHistory.lua.bytes
+- Assets/HallEx/Scripts/PersonCenter.lua.bytes
+- Assets/HallEx/Scripts/BankWnd.lua.bytes
+- Assets/HallEx/Scripts/ActityCenter7days.lua.bytes
+- Assets/HallEx/Scripts/CustomerCenter.lua.bytes
+- Assets/HallEx/Scripts/ActityCenter_Help.lua.bytes
+- Assets/HallEx/Scripts/RiskControlWnd.lua.bytes
+- Assets/HallEx/Scripts/ActityCenterRedReward.lua.bytes
+- Assets/HallEx/Scripts/CashGoldWnd.lua.bytes
+- Assets/HallEx/Scripts/CDKWnd.lua.bytes
+- Assets/HallEx/Scripts/Shop_chargeHistoryItemDeatil.lua.bytes
+- Assets/HallEx/Scripts/Xima_historyRecord.lua.bytes
+- Assets/HallEx/Scripts/InputBox.lua.bytes
+- Assets/HallEx/Scripts/PromotionWnd.lua.bytes
+- Assets/HallEx/Scripts/SettingWnd.lua.bytes
+- Assets/HallEx/Scripts/TransferBox.lua.bytes
+- Assets/HallEx/Scripts/ActityCenterDailyChargeReward.lua.bytes
+- Assets/HallEx/Scripts/CusWebWnd.lua.bytes
+- Assets/HallEx/Scripts/ActityCenterJiujijin.lua.bytes
+- Assets/HallEx/Scripts/Defines.lua.bytes
+- Assets/HallEx/Scripts/PosterVip.lua.bytes
+- Assets/HallEx/Scripts/ActityCenterOlineReward.lua.bytes
+- Assets/HallEx/Scripts/ActityCenterZhuanpan.lua.bytes
+- Assets/HallEx/Scripts/ActityCenterFirstChargeReward.lua.bytes
+- Assets/HallEx/Scripts/ActityCenterTuiguang.lua.bytes
+Dependencies: []

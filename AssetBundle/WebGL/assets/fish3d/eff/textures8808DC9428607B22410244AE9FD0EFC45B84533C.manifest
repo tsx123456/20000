@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 4160819317
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dee60f016efc4c5c8470456f90e2322d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/Eff/Textures/Mask_431.tga
+- Assets/Fish3D/Eff/Textures/fr005_1a_df.tga
+- Assets/Fish3D/Eff/Textures/Mask_337.tga
+- Assets/Fish3D/Eff/Textures/GF_467.tga
+- Assets/Fish3D/Eff/Textures/0300.tga
+- Assets/Fish3D/Eff/Textures/pao1 (1).png
+- Assets/Fish3D/Eff/Textures/wang (4).png
+- Assets/Fish3D/Eff/Textures/pao1 (5).png
+- Assets/Fish3D/Eff/Textures/4740.TGA
+- Assets/Fish3D/Eff/Textures/wang (1).png
+- Assets/Fish3D/Eff/Textures/llz072.tga
+- Assets/Fish3D/Eff/Textures/bowen.png
+- Assets/Fish3D/Eff/Textures/pao1 (3).png
+- Assets/Fish3D/Eff/Textures/quan.png
+- Assets/Fish3D/Eff/Textures/Lighting.tga
+- Assets/Fish3D/Eff/Textures/noise028.TGA
+- "Assets/Fish3D/Eff/Textures/shandian\u2014001.tga"
+- Assets/Fish3D/Eff/Textures/1-5.png
+- Assets/Fish3D/Eff/Textures/pao1 (2).png
+- Assets/Fish3D/Eff/Textures/wang (2).png
+- Assets/Fish3D/Eff/Textures/pao1 (4).png
+- Assets/Fish3D/Eff/Textures/wang (5).png
+- Assets/Fish3D/Eff/Textures/fair 2.png
+- Assets/Fish3D/Eff/Textures/2.tga
+- Assets/Fish3D/Eff/Textures/SkeletonDataAsset Icon.png
+- Assets/Fish3D/Eff/Textures/efxy_glow012.png
+- Assets/Fish3D/Eff/Textures/ice001.TGA
+- Assets/Fish3D/Eff/Textures/773.bmp
+- Assets/Fish3D/Eff/Textures/Barbarian_overPowerRune_weapons_flash_1_00000.png
+- Assets/Fish3D/Eff/Textures/wang (3).png
+- Assets/Fish3D/Eff/Textures/AtlasAsset Icon.png
+- Assets/Fish3D/Eff/Textures/130000faguang.tga
+- Assets/Fish3D/Eff/Textures/Wanme1688.png
+- Assets/Fish3D/Eff/Textures/150944pctwhhi3p1hphutw.TGA
+- Assets/Fish3D/Eff/Textures/45905_ATEXDXT1png.png
+Dependencies: []

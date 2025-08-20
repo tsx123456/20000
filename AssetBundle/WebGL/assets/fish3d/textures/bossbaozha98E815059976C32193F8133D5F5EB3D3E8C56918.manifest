@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 834878590
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33a3c0d44a7d7ab6ad2aec8fb80acd81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/Textures/bossbaozha/haimaqishi.png
+- Assets/Fish3D/Textures/bossbaozha/long_02.png
+- Assets/Fish3D/Textures/bossbaozha/shenhaieba_04.png
+- Assets/Fish3D/Textures/bossbaozha/shenhaieba_02.png
+- Assets/Fish3D/Textures/bossbaozha/long_01.png
+- Assets/Fish3D/Textures/bossbaozha/shenhaieba.png
+- Assets/Fish3D/Textures/bossbaozha/long_09.png
+- Assets/Fish3D/Textures/bossbaozha/shenhaieba_00.png
+- Assets/Fish3D/Textures/bossbaozha/long_07.png
+- Assets/Fish3D/Textures/bossbaozha/shenhaieba_05.png
+- Assets/Fish3D/Textures/bossbaozha/haimaqishi_07.png
+- Assets/Fish3D/Textures/bossbaozha/haimaqishi_04.png
+- Assets/Fish3D/Textures/bossbaozha/haimaqishi_09.png
+- Assets/Fish3D/Textures/bossbaozha/long_03.png
+- Assets/Fish3D/Textures/bossbaozha/shenhaieba_07.png
+- Assets/Fish3D/Textures/bossbaozha/bossbaozha_Atlas.spriteatlasv2
+- Assets/Fish3D/Textures/bossbaozha/shenhaieba_01.png
+- Assets/Fish3D/Textures/bossbaozha/haimaqishi_00.png
+- Assets/Fish3D/Textures/bossbaozha/shenhaieba_08.png
+- Assets/Fish3D/Textures/bossbaozha/haimaqishi_06.png
+- Assets/Fish3D/Textures/bossbaozha/haimaqishi_02.png
+- Assets/Fish3D/Textures/bossbaozha/long_00.png
+- Assets/Fish3D/Textures/bossbaozha/shenhaieba_06.png
+- Assets/Fish3D/Textures/bossbaozha/shenhaieba_09.png
+- Assets/Fish3D/Textures/bossbaozha/shenhaieba_03.png
+- Assets/Fish3D/Textures/bossbaozha/long_06.png
+- Assets/Fish3D/Textures/bossbaozha/haimaqishi_01.png
+- Assets/Fish3D/Textures/bossbaozha/yuangujulong.png
+- Assets/Fish3D/Textures/bossbaozha/haimaqishi_08.png
+- Assets/Fish3D/Textures/bossbaozha/haimaqishi_03.png
+- Assets/Fish3D/Textures/bossbaozha/long_04.png
+- Assets/Fish3D/Textures/bossbaozha/long_05.png
+- Assets/Fish3D/Textures/bossbaozha/haimaqishi_05.png
+- Assets/Fish3D/Textures/bossbaozha/long_08.png
+Dependencies: []

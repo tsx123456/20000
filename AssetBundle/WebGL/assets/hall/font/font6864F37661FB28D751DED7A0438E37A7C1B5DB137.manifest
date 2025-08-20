@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 84646588
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a257a2cfbfd24617da10bdac539036c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e8cfe27075f27eb629066047c56e09d8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Hall/Font/Font6/difenshuzi.png
+- Assets/Hall/Font/Font6/difen.fontsettings
+- Assets/Hall/Font/Font6/difenshuzi.mat
+Dependencies: []

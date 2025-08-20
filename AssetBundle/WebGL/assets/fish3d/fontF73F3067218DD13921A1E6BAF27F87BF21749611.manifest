@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 422154710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4573a5ee902e06210415c065f69cd06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 714c2248e4854dd560b0d9645f21e838
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/Font/fish_other_num_0(Material).mat
+- Assets/Fish3D/Font/fish_small_num.fontsettings
+- Assets/Fish3D/Font/fish_big_num_0(Material).mat
+- Assets/Fish3D/Font/number(Font).fontsettings
+- Assets/Fish3D/Font/jackpot_bonus.mat
+- Assets/Fish3D/Font/jackpot_bonus.fontsettings
+- Assets/Fish3D/Font/fish_big_num_0.png
+- Assets/Fish3D/Font/fish_small_num.mat
+- Assets/Fish3D/Font/fish_other_num_0(Font).fontsettings
+- Assets/Fish3D/Font/number(Material).mat
+- Assets/Fish3D/Font/fish_small_num.fnt
+- Assets/Fish3D/Font/fish_small_num_0.png
+- Assets/Fish3D/Font/number.png
+- Assets/Fish3D/Font/fish_other_num_0.png
+- Assets/Fish3D/Font/jackpot_bonus.fnt
+- Assets/Fish3D/Font/fish_big_num_0(Font).fontsettings
+- Assets/Fish3D/Font/jackpot_bonus_0.png
+Dependencies:
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/fish3d/eff/shaders.ab

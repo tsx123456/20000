@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3513537239
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e95072b06d22998306c8a33f6fb4a961
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 661b9e997c931501d0e4861c1d933db7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Hall/Materials/Material/glow_0006.mat
+- Assets/Hall/Materials/Material/glow_00.mat
+- Assets/Hall/Materials/Material/glow_0001.mat
+- Assets/Hall/Materials/Material/Glow_006.mat
+- Assets/Hall/Materials/Material/glow_0005.mat
+Dependencies: []

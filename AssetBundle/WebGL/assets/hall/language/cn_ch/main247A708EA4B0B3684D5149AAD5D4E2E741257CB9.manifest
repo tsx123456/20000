@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2060513097
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: caf8e5bb6eb5d3d2c22dead7788a6705
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Hall/language/cn_CH/Main/Oline.png
+- Assets/Hall/language/cn_CH/Main/hylj.png
+- Assets/Hall/language/cn_CH/Main/DailyCharge.psd
+- Assets/Hall/language/cn_CH/Main/bydr.png
+- Assets/Hall/language/cn_CH/Main/fklj.png
+- Assets/Hall/language/cn_CH/Main/hhdz.png
+- Assets/Hall/language/cn_CH/Main/bjl.png
+- Assets/Hall/language/cn_CH/Main/FirstCharge.png
+- Assets/Hall/language/cn_CH/Main/brnn.png
+- Assets/Hall/language/cn_CH/Main/Jiujijin.png
+- Assets/Hall/language/cn_CH/Main/Bind.png
+- Assets/Hall/language/cn_CH/Main/Zhuanpan.png
+- Assets/Hall/language/cn_CH/Main/dds.png
+- Assets/Hall/language/cn_CH/Main/byll.png
+- Assets/Hall/language/cn_CH/Main/DailyCharge.png
+- Assets/Hall/language/cn_CH/Main/tb.png
+- Assets/Hall/language/cn_CH/Main/Red.png
+- Assets/Hall/language/cn_CH/Main/7days.png
+Dependencies: []

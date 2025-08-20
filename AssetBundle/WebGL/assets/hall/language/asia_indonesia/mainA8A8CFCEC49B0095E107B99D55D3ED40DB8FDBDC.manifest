@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 4150300716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df4955f0fa1dac2cffabe402539647b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Hall/language/Asia_Indonesia/Main/bjl.png
+- Assets/Hall/language/Asia_Indonesia/Main/7days.png
+- Assets/Hall/language/Asia_Indonesia/Main/brnn.png
+- Assets/Hall/language/Asia_Indonesia/Main/Jiujijin.png
+- Assets/Hall/language/Asia_Indonesia/Main/hylj.png
+- Assets/Hall/language/Asia_Indonesia/Main/Oline.png
+- Assets/Hall/language/Asia_Indonesia/Main/FirstCharge.png
+- Assets/Hall/language/Asia_Indonesia/Main/bydr.png
+- Assets/Hall/language/Asia_Indonesia/Main/byll.png
+- Assets/Hall/language/Asia_Indonesia/Main/Zhuanpan.png
+- Assets/Hall/language/Asia_Indonesia/Main/dds.png
+- Assets/Hall/language/Asia_Indonesia/Main/Bind.png
+- Assets/Hall/language/Asia_Indonesia/Main/DailyCharge.png
+- Assets/Hall/language/Asia_Indonesia/Main/hhdz.png
+- Assets/Hall/language/Asia_Indonesia/Main/tb.png
+- Assets/Hall/language/Asia_Indonesia/Main/Red.png
+- Assets/Hall/language/Asia_Indonesia/Main/fklj.png
+Dependencies: []

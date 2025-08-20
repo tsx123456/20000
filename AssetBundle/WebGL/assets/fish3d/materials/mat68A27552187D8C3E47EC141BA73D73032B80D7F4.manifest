@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3351033319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c753348eefbcfb9ada54352202fc48e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 661b9e997c931501d0e4861c1d933db7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/Materials/Mat/datouyu.mat
+- Assets/Fish3D/Materials/Mat/shitouyu.mat
+- Assets/Fish3D/Materials/Mat/zhadantong.mat
+- Assets/Fish3D/Materials/Mat/newshayu_jin.mat
+- Assets/Fish3D/Materials/Mat/xiaocaoyu.mat
+- Assets/Fish3D/Materials/Mat/bianfuyu.mat
+- Assets/Fish3D/Materials/Mat/bianfuyu_jin.mat
+- Assets/Fish3D/Materials/Mat/yanweiyu.mat
+- Assets/Fish3D/Materials/Mat/lanyu.mat
+- Assets/Fish3D/Materials/Mat/ht.mat
+- Assets/Fish3D/Materials/Mat/bianpaoyu.mat
+- Assets/Fish3D/Materials/Mat/jianyu.mat
+- Assets/Fish3D/Materials/Mat/jy 1.mat
+- Assets/Fish3D/Materials/Mat/xiaohuangyu.mat
+- Assets/Fish3D/Materials/Mat/wugui.mat
+- Assets/Fish3D/Materials/Mat/boss_haima.mat
+- Assets/Fish3D/Materials/Mat/redaiyu.mat
+- Assets/Fish3D/Materials/Mat/boss_long.mat
+- Assets/Fish3D/Materials/Mat/boss_eba.mat
+- Assets/Fish3D/Materials/Mat/xiaoyanpao.mat
+- Assets/Fish3D/Materials/Mat/shandianyu.mat
+- Assets/Fish3D/Materials/Mat/lanjin_jin.mat
+- Assets/Fish3D/Materials/Mat/lanjin.mat
+- Assets/Fish3D/Materials/Mat/ciweiyu.mat
+- Assets/Fish3D/Materials/Mat/ht_jin.mat
+- Assets/Fish3D/Materials/Mat/xiaocouyu.mat
+- Assets/Fish3D/Materials/Mat/newshayu.mat
+- Assets/Fish3D/Materials/Mat/jianyu_jin.mat
+Dependencies:
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/fish3d/eff/shaders.ab
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/fish3d/eff/textures.ab
+- E:/work/Unity_Fish3D_webgl/./AssetBundle/WebGL/assets/fish3d/materials/tex.ab

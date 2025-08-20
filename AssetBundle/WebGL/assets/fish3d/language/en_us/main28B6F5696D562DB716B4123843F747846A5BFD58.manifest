@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 432000172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e4e5b9467f9db4d4e11b3e4a40a8837
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Fish3D/language/en_US/Main/goumaipaotai.png
+- Assets/Fish3D/language/en_US/Main/ziyougongji.png
+- Assets/Fish3D/language/en_US/Main/paotaitu.png
+- "Assets/Fish3D/language/en_US/Main/\u9AD8\u8FBE\u7CFB\u5217.png"
+- "Assets/Fish3D/language/en_US/Main/\u6076\u9B54\u7CFB\u5217.png"
+- Assets/Fish3D/language/en_US/Main/suodinggongji.png
+- Assets/Fish3D/language/en_US/Main/tuichu.png
+- Assets/Fish3D/language/en_US/Main/enMain_Atlas.spriteatlasv2
+- Assets/Fish3D/language/en_US/Main/anniu.png
+- Assets/Fish3D/language/en_US/Main/dengdaijiaru.png
+- "Assets/Fish3D/language/en_US/Main/\u6F5C\u8247\u7CFB\u5217.png"
+- "Assets/Fish3D/language/en_US/Main/\u666E\u901A\u70AE\u53F0.png"
+- Assets/Fish3D/language/en_US/Main/buytujian.png
+- Assets/Fish3D/language/en_US/Main/tujian.png
+- Assets/Fish3D/language/en_US/Main/jisugongji.png
+- "Assets/Fish3D/language/en_US/Main/\u6BD2\u5996\u7CFB\u5217.png"
+- Assets/Fish3D/language/en_US/Main/jiesuo.png
+- Assets/Fish3D/language/en_US/Main/youarehere.png
+Dependencies: []

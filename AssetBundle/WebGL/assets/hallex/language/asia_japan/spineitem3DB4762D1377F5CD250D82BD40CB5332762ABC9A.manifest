@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 4069710856
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ee39a73154340e1607c296f478b1c3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c5e660af9f9ea71586e467cb191169d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.MeshGenerator
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.MeshGenerator/Settings
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/HallEx/language/Asia_Japan/SpineItem/tetil_spine.prefab
+Dependencies: []

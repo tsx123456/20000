@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1091569663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 546b5af86f06171c1555bf95fa84042f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HallEx/TexturesNew/Loading/progress.png
+- Assets/HallEx/TexturesNew/Loading/progress_bottom.png
+Dependencies: []

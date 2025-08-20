@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1250169718
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4a2b86557361b52ae88c6f2773452c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HallEx/language/Thai/Main/btn_gold.png
+- Assets/HallEx/language/Thai/Main/btn_diamond.png
+- Assets/HallEx/language/Thai/Main/dajiangRecord.png
+- Assets/HallEx/language/Thai/Main/dajiangRecord1.png
+- Assets/HallEx/language/Thai/Main/FirstCharge_title.png
+- Assets/HallEx/language/Thai/Main/cb_biaoti.png
+- Assets/HallEx/language/Thai/Main/personRecord.png
+- Assets/HallEx/language/Thai/Main/zhuanpan_3.png
+- Assets/HallEx/language/Thai/Main/Title22.png
+- Assets/HallEx/language/Thai/Main/bg.png
+- Assets/HallEx/language/Thai/Main/xinshou.png
+- Assets/HallEx/language/Thai/Main/personRecord1.png
+- Assets/HallEx/language/Thai/Main/ljbd_bt.png
+- Assets/HallEx/language/Thai/Main/btn_silver1.png
+- Assets/HallEx/language/Thai/Main/gaoji.png
+- Assets/HallEx/language/Thai/Main/tb_biaoti.png
+- Assets/HallEx/language/Thai/Main/jinfen_tomorrow.png
+- Assets/HallEx/language/Thai/Main/zhuanpan_2.png
+- Assets/HallEx/language/Thai/Main/btn_silver.png
+- Assets/HallEx/language/Thai/Main/activity_1.png
+- Assets/HallEx/language/Thai/Main/zhongji.png
+- Assets/HallEx/language/Thai/Main/xyzp.png
+- Assets/HallEx/language/Thai/Main/activity_0.png
+- Assets/HallEx/language/Thai/Main/btn_gold1.png
+- Assets/HallEx/language/Thai/Main/zhuanpan_1.png
+- Assets/HallEx/language/Thai/Main/Title16.png
+- Assets/HallEx/language/Thai/Main/Title6.png
+- Assets/HallEx/language/Thai/Main/btn_diamond1.png
+- Assets/HallEx/language/Thai/Main/chuji.png
+- Assets/HallEx/language/Thai/Main/btn_start1.png
+Dependencies: []

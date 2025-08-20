@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1850633139
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5feb92137ecc8b786e51509d5923137d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Fish3D/FishBook/\u9CB8\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u4ED9\u5973\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u9ED1\u9CA8.png"
+- "Assets/Fish3D/FishBook/\u5251\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u9EC4\u91D1\u9CB8\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u8759\u8760\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u71D5\u5C3E\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u95EA\u7535\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u5927\u5934\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u8FDC\u53E4\u5DE8\u9F99.png"
+- "Assets/Fish3D/FishBook/\u70B8\u836F\u6876.png"
+- "Assets/Fish3D/FishBook/\u9CA8\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u9EC4\u91D1\u9ED1\u9CA8.png"
+- Assets/Fish3D/FishBook/fishBook_Atlas.spriteatlasv2
+- "Assets/Fish3D/FishBook/\u5C0F\u8349\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u523A\u5C3E\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u5C0F\u4E11\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u706F\u7B3C\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u7EA2\u6591\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u5C0F\u9EC4\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u9EC4\u91D1\u9CA8\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u9EC4\u91D1\u8759\u8760\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u7EFF\u6591\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u6D77\u9A6C\u9A91\u58EB.png"
+- "Assets/Fish3D/FishBook/\u9EC4\u91D1\u5251\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u773C\u6CE1\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u6DF1\u6D77\u6076\u9738.png"
+- "Assets/Fish3D/FishBook/\u5927\u84DD\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u70ED\u5E26\u9C7C.png"
+- "Assets/Fish3D/FishBook/\u4E4C\u9F9F.png"
+Dependencies: []
