@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3680025379
+CRC: 3544699988
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -54,7 +54,6 @@ AssetBundleManifest:
         Dependency_6: assets/fish3d/textures/fishbook.ab
         Dependency_7: assets/fish3d/textures/main.ab
         Dependency_8: assets/fish3d/textures/tanchuang.ab
-        Dependency_9: assets/fish3d/language/cn_ch/main.ab
     Info_10:
       Name: assets/fish3d/uiwnd.ab
       Dependencies:
@@ -64,7 +63,6 @@ AssetBundleManifest:
         Dependency_3: assets/fish3d/textures/cannoicon.ab
         Dependency_4: assets/fish3d/textures/main.ab
         Dependency_5: assets/fish3d/textures/tanchuang.ab
-        Dependency_6: assets/fish3d/language/cn_ch/main.ab
     Info_11:
       Name: assets/fish3d/web.ab
       Dependencies:
