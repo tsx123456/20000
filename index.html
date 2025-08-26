@@ -8,10 +8,11 @@
     <script src="webglScreen.js"></script>
 </head>
 <body style="margin: 0; overflow:hidden">
-<iframe id="Frame" src="game.html" style="border-width:1px;position:absolute;"></iframe>
+<iframe id="Frame" style="border-width:1px;position:absolute;"></iframe>
 <script>
     //开始时调用
     window.gameframe = document.getElementById("Frame");
+    window.gameframe.src = 'game.html' + window.location.search;
     window.WebglOrientation = WebglScreenOrientation.AutoRotation
     RotScreen()
     //首先获得视口高度并将其乘以1%以获得1vh单位的值
