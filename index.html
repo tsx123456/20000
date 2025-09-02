@@ -5,16 +5,31 @@
     <title>3D Fishing Master</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="webglScreen.js"></script>
+<!--    <script src="webglScreen.js"></script>-->
+    <script src="TemplateData/webglScreen.js"></script>
 </head>
 <body style="margin: 0; overflow:hidden">
-<iframe id="Frame" style="border-width:1px;position:absolute;"></iframe>
+<!--<iframe id="Frame" style="border-width:1px;position:absolute;"></iframe>-->
+<!-- 新：占满视口 -->
+<iframe id="Frame" style="position:absolute;top:0;left:0;width:100vw;height:100vh;border:0;"></iframe>
 <script>
     //开始时调用
     window.gameframe = document.getElementById("Frame");
     //参数透传到游戏内容页面
     window.gameframe.src = 'game.html' + window.location.search;
-    window.WebglOrientation = WebglScreenOrientation.AutoRotation
+    // 解析查询参数
+    const params = new URLSearchParams(window.location.search);
+    const screen = params.get('screen');
+    console.log('screen =', screen);
+    if (screen === '0') {
+        window.WebglOrientation = WebglScreenOrientation.Portrait
+    } else if(screen === '1') {
+        window.WebglOrientation = WebglScreenOrientation.Landscape
+    } else if(screen === '2') {
+        window.WebglOrientation = WebglScreenOrientation.AutoRotation
+    } else {
+        window.WebglOrientation = WebglScreenOrientation.Landscape
+    }
     RotScreen()
     //首先获得视口高度并将其乘以1%以获得1vh单位的值
     let vh = window.innerHeight * 0.01
@@ -32,31 +47,31 @@
         RotScreen();
     })
 </script>
-<script>
-    const Http = new XMLHttpRequest();
-    const url = "StreamingAssets/webglscreenSetting/ScreenConfig.json";
-    // 创建一个新的 XMLHttpRequest 对象  
-    var xhr = new XMLHttpRequest();
+<!--<script>-->
+<!--    const Http = new XMLHttpRequest();-->
+<!--    const url = "StreamingAssets/webglscreenSetting/ScreenConfig.json";-->
+<!--    // 创建一个新的 XMLHttpRequest 对象  -->
+<!--    var xhr = new XMLHttpRequest();-->
 
-    // 设置请求类型为 GET，并指定请求的 URL  
+<!--    // 设置请求类型为 GET，并指定请求的 URL  -->
 
-    // 设置请求完成后的回调函数  
-    xhr.onreadystatechange = function () {
-        // 检查请求是否成功完成（状态码为 200）  
-        if (xhr.readyState === 4 && xhr.status === 200) {
-            // 读取响应文本  
-            var json = xhr.responseText;
-            // 解析 JSON 字符串为 JavaScript 对象  
-            var data = JSON.parse(json);
-            // 将解析后的数据中的 ScreenOrientation 赋值给 window.WebglOrientation  
-            window.WebglOrientation = data.ScreenOrientation;
-            // 调用 RotScreen 函数（假设该函数已定义）  
-            RotScreen();
-        }
-    };
-    xhr.open("GET", url, true);
-    xhr.send()
-</script>
+<!--    // 设置请求完成后的回调函数  -->
+<!--    xhr.onreadystatechange = function () {-->
+<!--        // 检查请求是否成功完成（状态码为 200）  -->
+<!--        if (xhr.readyState === 4 && xhr.status === 200) {-->
+<!--            // 读取响应文本  -->
+<!--            var json = xhr.responseText;-->
+<!--            // 解析 JSON 字符串为 JavaScript 对象  -->
+<!--            var data = JSON.parse(json);-->
+<!--            // 将解析后的数据中的 ScreenOrientation 赋值给 window.WebglOrientation  -->
+<!--            window.WebglOrientation = data.ScreenOrientation;-->
+<!--            // 调用 RotScreen 函数（假设该函数已定义）  -->
+<!--            RotScreen();-->
+<!--        }-->
+<!--    };-->
+<!--    xhr.open("GET", url, true);-->
+<!--    xhr.send()-->
+<!--</script>-->
 <style>
 
 </style>
