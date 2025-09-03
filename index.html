@@ -6,13 +6,24 @@
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--    <script src="webglScreen.js"></script>-->
-    <script src="TemplateData/webglScreen.js"></script>
+    <script src="TemplateData/webglScreen_V1.js"></script>
 </head>
 <body style="margin: 0; overflow:hidden">
 <!--<iframe id="Frame" style="border-width:1px;position:absolute;"></iframe>-->
 <!-- 新：占满视口 -->
 <iframe id="Frame" style="position:absolute;top:0;left:0;width:100vw;height:100vh;border:0;"></iframe>
+<!--<script src="TemplateData/vConsole.js"></script>-->
 <script>
+
+    // var vConsole = null;
+    // function GetConsoleInfo()
+    // {
+    //     if (vConsole == null){
+    //         vConsole = new VConsole();
+    //     }
+    // }
+    // GetConsoleInfo();
+    
     //开始时调用
     window.gameframe = document.getElementById("Frame");
     //参数透传到游戏内容页面
