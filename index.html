@@ -5,7 +5,7 @@
     <title>3D Fishing Master</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<!--    <script src="webglScreen.js"></script>-->
+    <!--    <script src="webglScreen.js"></script>-->
     <script src="TemplateData/webglScreen_V1.js"></script>
 </head>
 <body style="margin: 0; overflow:hidden">
@@ -23,13 +23,14 @@
     //     }
     // }
     // GetConsoleInfo();
-    
+
     //开始时调用
     window.gameframe = document.getElementById("Frame");
     //参数透传到游戏内容页面
     window.gameframe.src = 'game.html' + window.location.search;
     // 解析查询参数
     const params = new URLSearchParams(window.location.search);
+    const isCloseWebView = params.get('isCloseWebView');
     const screen = params.get('screen');
     console.log('screen =', screen);
     if (screen === '0') {
@@ -83,6 +84,23 @@
 <!--    xhr.open("GET", url, true);-->
 <!--    xhr.send()-->
 <!--</script>-->
+
+<script>
+    function CloseWebView() {
+        if (isCloseWebView !== "1"){
+            return
+        }
+        console.log('index.xml CloseWebView')
+        // Android.newTppClose()
+        try {
+            JSBridgeService.newTppClose();
+        } catch (e) {
+            console.warn('JSBridgeService.newTppClose :', e)
+        }
+        console.log('index.xml CloseWebView end')
+    }
+</script>
+
 <style>
 
 </style>
