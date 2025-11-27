@@ -15,7 +15,7 @@
     <img id="animatedGif" class="progress-bar-image" src="./TemplateData/入場.webp" alt="" srcset="" />
 </div>
 <div id="initial-loader-1">
-    <img class="initial-loader-img" src="./TemplateData/循環.webp" alt="" srcset="" />
+    <img id="animatedGifCycle" class="initial-loader-img" src="./TemplateData/循環.webp" alt="" srcset="" />
 </div>
 <div id="unity-container" class="unity-desktop">
     <canvas id="unity-canvas" width=960 height=600></canvas>
@@ -73,9 +73,9 @@
     var buildUrl = "Build";
     var loaderUrl = buildUrl + "/20002_br.loader.js";
     var config = {
-        dataUrl: buildUrl + "/c9f0756ee159af12022a04f81603e631.data.unityweb",
-        frameworkUrl: buildUrl + "/b0a5be2aa6f3a06f24ae0f2d25256992.js.unityweb",
-        codeUrl: buildUrl + "/155df4465c8fe5f61aeab477be1cb5a7.wasm.unityweb",
+        dataUrl: buildUrl + "/1506c2375735d1053c50019db7ddcc40.data.unityweb",
+        frameworkUrl: buildUrl + "/880f4df3634df3cabe9125e01b0c29a5.js.unityweb",
+        codeUrl: buildUrl + "/1b0ba60abb438a40851058a94299d7d0.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "3D Fishing Master",
     productName: "3D Fishing Master",
@@ -164,7 +164,27 @@
     document.body.appendChild(script);
 
     function reloadAnimation() {
+        // 读取父页面传过来的参数
+        const urlParams = new URLSearchParams(window.location.search);
+        const brandName= urlParams.get('brandName');
+
+
+        let animatedGifCycle = document.getElementById("animatedGifCycle");
+        var gifName = "";
+
+        if (brandName === 'hy'){
+            gifName = 'hy.webp'
+            animatedGifCycle.src = './TemplateData/hyCycle.webp'
+        }else if(brandName === 'kf'){
+            gifName = 'kf.webp'
+            animatedGifCycle.src = './TemplateData/kfCycle.webp'
+        }else{
+            gifName = 'kf.webp'
+            animatedGifCycle.src = './TemplateData/kfCycle.webp'
+        }
         let img = document.getElementById("animatedGif");
+        img.src = './TemplateData/' + gifName;
+
         const originalSrc = img.src;
 
         // 清空src再重新设置

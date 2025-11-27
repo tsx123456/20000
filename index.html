@@ -95,16 +95,14 @@
         try {
             JSBridgeService.newTppClose();
         } catch (e) {
-            console.warn('JSBridgeService.newTppClose :', e)
+            console.warn('Android JSBridgeService.newTppClose :', e)
         }
-
         //ios
         try {
             window.webkit.messageHandlers.newTppClose.postMessage("");
         } catch (e) {
             console.warn('IOS window.webkit.messageHandlers.newTppClose.postMessage(""); :', e)
         }
-        
         console.log('index.xml CloseWebView end')
     }
 </script>
