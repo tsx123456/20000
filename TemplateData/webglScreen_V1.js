@@ -1,12 +1,12 @@
 const WebglScreenOrientation =
-{
-  //竖屏
-  Portrait: 0,
-  //横屏
-  Landscape: 1,
-  //自动
-  AutoRotation: 2,
-}
+    {
+      //竖屏
+      Portrait: 0,
+      //横屏
+      Landscape: 1,
+      //自动
+      AutoRotation: 2,
+    }
 
 function launchFullscreen(element) {
   if (element.requestFullscreen) {
@@ -86,28 +86,43 @@ function RotScreen() {
       console.log('RotScreen code =',2);
     }
     else {
-      //window.gameframe.style.height = 'calc(100vh - 3px)';
-      //window.gameframe.style.width = 'calc(100vw - 3px)';	
-      //window.gameframe.style.height =  window.innerHeight;
-      //window.gameframe.style.width = window.innerWidth;	
+      // ── 恢复竖屏 ──
+      window.gameframe.style.display = 'none';           // 先彻底藏起来
 
-      window.gameframe.style.transform = "";
-      window.gameframe.style.transformOrigin = ""
-      // window.gameframe.style.height = '100vh';
-      // window.gameframe.style.width = '100vw';;
+      // 清干净所有变换
+      window.gameframe.style.transform      = 'none';
+      window.gameframe.style.transformOrigin = '0 0';
+      window.gameframe.style.translate      = 'none';
+      window.gameframe.style.rotate         = 'none';
+      window.gameframe.style.position       = '';
+      window.gameframe.style.top            = '';
+      window.gameframe.style.left           = '';
+
+      window.gameframe.style.width  = window.innerWidth  + 'px';
       window.gameframe.style.height = window.innerHeight + 'px';
-      window.gameframe.style.width = window.innerWidth + 'px';
+
+      window.gameframe.style.display = '';   // 最后再显示回来
+
       console.log('RotScreen code =',3);
     }
   } else {
     if (window.WebglOrientation == WebglScreenOrientation.Portrait) {
-      //window.gameframe.style.transformOrigin = "top right"
-      //window.gameframe.style.transform = "rotate(-90deg) translateY(-100vh)"
-      
-      // window.gameframe.style.height = '100vw';
-      // window.gameframe.style.width = '100vh';
+      // ── 恢复竖屏 ──
+      window.gameframe.style.display = 'none';           // 先彻底藏起来
+
+      // 清干净所有变换
+      window.gameframe.style.transform      = 'none';
+      window.gameframe.style.transformOrigin = '0 0';
+      window.gameframe.style.translate      = 'none';
+      window.gameframe.style.rotate         = 'none';
+      window.gameframe.style.position       = '';
+      window.gameframe.style.top            = '';
+      window.gameframe.style.left           = '';
+
+      window.gameframe.style.width  = window.innerWidth  + 'px';
       window.gameframe.style.height = window.innerHeight + 'px';
-      window.gameframe.style.width = window.innerWidth + 'px';
+
+      window.gameframe.style.display = '';   // 最后再显示回来
       console.log('RotScreen code =',4);
     }
     else {
