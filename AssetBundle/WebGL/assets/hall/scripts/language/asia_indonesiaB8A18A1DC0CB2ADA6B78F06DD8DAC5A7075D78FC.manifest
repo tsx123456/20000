@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 215094594
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51c4dfc027f51508564b3102942e52a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Hall/Scripts/language/Asia_Indonesia/resname.lua.bytes
+- Assets/Hall/Scripts/language/Asia_Indonesia/messagetext.lua.bytes
+Dependencies: []
