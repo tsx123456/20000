@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3717010053
+CRC: 3381941830
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -126,4 +126,10 @@ AssetBundleManifest:
       Dependencies: {}
     Info_29:
       Name: assets/fish3d/language/pt/main.ab
+      Dependencies: {}
+    Info_30:
+      Name: assets/fish3d/language/ru/fishname.ab
+      Dependencies: {}
+    Info_31:
+      Name: assets/fish3d/language/ru/main.ab
       Dependencies: {}
